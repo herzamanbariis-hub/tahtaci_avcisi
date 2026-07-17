@@ -11,3 +11,5 @@ python-dotenv
 plotly
 lxml
 html5lib
+anthropic
+google-generativeai
