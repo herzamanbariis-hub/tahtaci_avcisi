@@ -261,7 +261,6 @@ async def main(target_list, group_name):
         except Exception:
             pass
 
-    import os, json
     start_idx = 0
     if os.path.exists('progress.json'):
         try:
