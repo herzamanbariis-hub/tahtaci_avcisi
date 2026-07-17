@@ -103,7 +103,8 @@ with st.sidebar.expander("🛠️ Veritabanını Güncelle (Tehlikeli)"):
     else:
         secilen_grup = st.selectbox("Taranacak Hisse Grubu", ["BIST30", "BIST100", "BIST_DISI", "ALL"])
         if st.button("🔄 Tüm Grubu Telegram'dan Çek", use_container_width=True):
-            subprocess.Popen(["python", "data_ingestion.py", "--group", secilen_grup])
+            import sys
+            subprocess.Popen([sys.executable, "data_ingestion.py", "--group", secilen_grup])
             st.success(f"{secilen_grup} için robot başlatıldı.")
 
 import os, json

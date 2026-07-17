@@ -236,7 +236,10 @@ async def fetch_stock_data(client: TelegramClient, symbol: str):
 
 
 async def main(target_list, group_name):
-    client = TelegramClient('tahtaci_session', API_ID, API_HASH)
+    from telethon.sessions import StringSession
+    session_str = os.getenv('TELEGRAM_STRING_SESSION')
+    client_session = StringSession(session_str) if session_str else 'tahtaci_session'
+    client = TelegramClient(client_session, API_ID, API_HASH)
     await client.start()
     
     logger.info(f"Arka Plan Veri Toplama Robotu Basladi! Grup: {group_name} ({len(target_list)} Hisse)")
