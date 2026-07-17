@@ -108,8 +108,10 @@ with st.sidebar.expander("🛠️ Veritabanını Güncelle (Tehlikeli)"):
             env_vars = os.environ.copy()
             if "TELEGRAM_STRING_SESSION" in st.secrets:
                 env_vars["TELEGRAM_STRING_SESSION"] = st.secrets["TELEGRAM_STRING_SESSION"]
-            subprocess.Popen([sys.executable, "data_ingestion.py", "--group", secilen_grup], env=env_vars)
-            st.success(f"{secilen_grup} için robot başlatıldı.")
+            
+            with open("error_log.txt", "w") as f:
+                subprocess.Popen([sys.executable, "data_ingestion.py", "--group", secilen_grup], env=env_vars, stdout=f, stderr=subprocess.STDOUT)
+            st.success(f"{secilen_grup} için robot başlatıldı. Arka plan işlemleri error_log.txt'ye yazılıyor.")
 
 import os, json
 if os.path.exists("progress.json"):
@@ -133,6 +135,11 @@ if os.path.exists("progress.json"):
                 st.rerun()
     except Exception:
         pass
+
+if os.path.exists("error_log.txt"):
+    if st.sidebar.button("Hata Loglarını Göster"):
+        with open("error_log.txt", "r") as f:
+            st.sidebar.code(f.read())
 
 st.sidebar.markdown("---")
 if st.sidebar.button("🚀 Analizi Başlat", type="primary"):
