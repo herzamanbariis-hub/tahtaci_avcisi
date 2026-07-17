@@ -8,6 +8,7 @@ import logging
 
 import env
 from telethon import TelegramClient
+from telethon.sessions import StringSession
 
 logger = logging.getLogger("TelegramMiniAppScraper")
 
