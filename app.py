@@ -104,7 +104,11 @@ with st.sidebar.expander("🛠️ Veritabanını Güncelle (Tehlikeli)"):
         secilen_grup = st.selectbox("Taranacak Hisse Grubu", ["BIST30", "BIST100", "BIST_DISI", "ALL"])
         if st.button("🔄 Tüm Grubu Telegram'dan Çek", use_container_width=True):
             import sys
-            subprocess.Popen([sys.executable, "data_ingestion.py", "--group", secilen_grup])
+            import os
+            env_vars = os.environ.copy()
+            if "TELEGRAM_STRING_SESSION" in st.secrets:
+                env_vars["TELEGRAM_STRING_SESSION"] = st.secrets["TELEGRAM_STRING_SESSION"]
+            subprocess.Popen([sys.executable, "data_ingestion.py", "--group", secilen_grup], env=env_vars)
             st.success(f"{secilen_grup} için robot başlatıldı.")
 
 import os, json
