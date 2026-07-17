@@ -1,0 +1,14 @@
+
+[2026-07-11 10:09:49+00:00] Gonderen: 1622082854 Mesaj: ✅ `EREGL` - **Ereğli Demir ve Çelik Fabrikaları T.A.Ş.**
+📮 __AKD Verileri hazır!__
+📅 `2026-07-10 - 2026-07-10`
+
+📌 **Tarih aralığı belirtmek için:**
+ℹ️ `/akd EREGL YYYY-AA-GG YYYY-AA-GG`
+💡 __Örnek:__ `/akd EREGL 2025-01-13 2025-01-14`
+
+📆 **Son N gün:**
+💡 __Örnek:__ `/akd EREGL 7g`
+Markup: ReplyInlineMarkup(rows=[KeyboardButtonRow(buttons=[KeyboardButtonWebView(text='🧮 EREGL AKD', url='https://webapi.hisseplus.com/ui/akd?sembol=EREGL&ilk=2026-07-10&son=2026-07-10&kurek=e10cc66d239d446cde6dc83d20da883251cb591fd5d9ff8ccc024a59ef269b86&user_id=1631408091', style=None)]), KeyboardButtonRow(buttons=[KeyboardButtonUrl(text='📱 Uygulamada Gör', url='https://t.me/hisseyorumbot?startapp=EREGL-akd', style=None)]), KeyboardButtonRow(buttons=[KeyboardButtonCallback(text='🤖 Geri', data=b'EREGL:ana_sayfa', requires_password=False, style=None), KeyboardButtonCallback(text='♻️ Veriyi Tazele', data=b'EREGL:akd', requires_password=False, style=None)]), KeyboardButtonRow(buttons=[KeyboardButtonSwitchInline(text='🔍 Hisse Ara..', query='', same_peer=True, style=None, peer_types=[])])])
+
+[2026-07-11 10:09:48+00:00] Gonderen: 1631408091 Mesaj: EREGL

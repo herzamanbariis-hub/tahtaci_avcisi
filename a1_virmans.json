@@ -1,0 +1,6746 @@
+[
+  {
+    "hisse": "AKBNK",
+    "gonderici": "A1",
+    "alici": "AXM",
+    "ort_transfer": 770650.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "AKBNK",
+    "gonderici": "A1",
+    "alici": "Ak",
+    "ort_transfer": 770650.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "AKBNK",
+    "gonderici": "A1",
+    "alici": "BofA",
+    "ort_transfer": 770650.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "AKBNK",
+    "gonderici": "A1",
+    "alici": "Bulls",
+    "ort_transfer": 770650.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "AKBNK",
+    "gonderici": "A1",
+    "alici": "Deniz",
+    "ort_transfer": 770650.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "AKBNK",
+    "gonderici": "A1",
+    "alici": "Destek",
+    "ort_transfer": 770650.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "AKBNK",
+    "gonderici": "A1",
+    "alici": "Global",
+    "ort_transfer": 770650.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "AKBNK",
+    "gonderici": "A1",
+    "alici": "HSBC",
+    "ort_transfer": 770650.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "AKBNK",
+    "gonderici": "A1",
+    "alici": "Halk",
+    "ort_transfer": 770650.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "AKBNK",
+    "gonderici": "A1",
+    "alici": "Inv. AZ",
+    "ort_transfer": 770650.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "AKBNK",
+    "gonderici": "A1",
+    "alici": "Midas",
+    "ort_transfer": 770650.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "AKBNK",
+    "gonderici": "A1",
+    "alici": "Osmanlı",
+    "ort_transfer": 770650.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "AKBNK",
+    "gonderici": "A1",
+    "alici": "Oyak",
+    "ort_transfer": 770650.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "AKBNK",
+    "gonderici": "A1",
+    "alici": "Phillip",
+    "ort_transfer": 770650.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "AKBNK",
+    "gonderici": "A1",
+    "alici": "QNB",
+    "ort_transfer": 770650.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "AKBNK",
+    "gonderici": "A1",
+    "alici": "TEB Yat.",
+    "ort_transfer": 770650.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "AKBNK",
+    "gonderici": "A1",
+    "alici": "Tera",
+    "ort_transfer": 770650.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "AKBNK",
+    "gonderici": "A1",
+    "alici": "Vakıf",
+    "ort_transfer": 770650.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "AKBNK",
+    "gonderici": "A1",
+    "alici": "Yat. Fin.",
+    "ort_transfer": 770650.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "AKBNK",
+    "gonderici": "A1",
+    "alici": "Ziraat",
+    "ort_transfer": 770650.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "AKBNK",
+    "gonderici": "A1",
+    "alici": "Ünlü",
+    "ort_transfer": 770650.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "AKBNK",
+    "gonderici": "A1",
+    "alici": "İnfo",
+    "ort_transfer": 770650.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "AKFYE",
+    "gonderici": "BofA",
+    "alici": "A1",
+    "ort_transfer": 900.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "AKFYE",
+    "gonderici": "Gedik",
+    "alici": "A1",
+    "ort_transfer": 1250.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "AKFYE",
+    "gonderici": "Yapı Kr.",
+    "alici": "A1",
+    "ort_transfer": 16321.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "AKFYE",
+    "gonderici": "Yat. Fin.",
+    "alici": "A1",
+    "ort_transfer": 9804.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "AKFYE",
+    "gonderici": "Ünlü",
+    "alici": "A1",
+    "ort_transfer": 26416.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "AKFYE",
+    "gonderici": "İş",
+    "alici": "A1",
+    "ort_transfer": 176597.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "AKSA",
+    "gonderici": "Ak",
+    "alici": "A1",
+    "ort_transfer": 289513.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "AKSA",
+    "gonderici": "Ata",
+    "alici": "A1",
+    "ort_transfer": 328407.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "AKSA",
+    "gonderici": "Bulls",
+    "alici": "A1",
+    "ort_transfer": 100000.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "AKSA",
+    "gonderici": "Meksa",
+    "alici": "A1",
+    "ort_transfer": 62596.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "AKSA",
+    "gonderici": "Oyak",
+    "alici": "A1",
+    "ort_transfer": 37500.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "AKSA",
+    "gonderici": "Strateji",
+    "alici": "A1",
+    "ort_transfer": 150000.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "AKSA",
+    "gonderici": "TEB Yat.",
+    "alici": "A1",
+    "ort_transfer": 27278.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "AKSA",
+    "gonderici": "Yapı Kr.",
+    "alici": "A1",
+    "ort_transfer": 19420.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "AKSA",
+    "gonderici": "Ziraat",
+    "alici": "A1",
+    "ort_transfer": 567.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "AKSA",
+    "gonderici": "Ünlü",
+    "alici": "A1",
+    "ort_transfer": 195355.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "AKSA",
+    "gonderici": "İş",
+    "alici": "A1",
+    "ort_transfer": 486017.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "AKSEN",
+    "gonderici": "A1",
+    "alici": "Ata",
+    "ort_transfer": 5679.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "AKSEN",
+    "gonderici": "A1",
+    "alici": "BofA",
+    "ort_transfer": 5679.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "AKSEN",
+    "gonderici": "A1",
+    "alici": "Bulls",
+    "ort_transfer": 5679.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "AKSEN",
+    "gonderici": "A1",
+    "alici": "Halk",
+    "ort_transfer": 5679.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "AKSEN",
+    "gonderici": "A1",
+    "alici": "Midas",
+    "ort_transfer": 5679.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "AKSEN",
+    "gonderici": "A1",
+    "alici": "Oyak",
+    "ort_transfer": 5679.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "AKSEN",
+    "gonderici": "A1",
+    "alici": "TEB Yat.",
+    "ort_transfer": 5679.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "AKSEN",
+    "gonderici": "A1",
+    "alici": "Yat. Fin.",
+    "ort_transfer": 5679.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "AKSEN",
+    "gonderici": "A1",
+    "alici": "Ünlü",
+    "ort_transfer": 5679.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ALARK",
+    "gonderici": "A1",
+    "alici": "Ata",
+    "ort_transfer": 4083.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ALARK",
+    "gonderici": "A1",
+    "alici": "BofA",
+    "ort_transfer": 4083.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ALARK",
+    "gonderici": "A1",
+    "alici": "Garanti",
+    "ort_transfer": 4083.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ALARK",
+    "gonderici": "A1",
+    "alici": "Gedik",
+    "ort_transfer": 4083.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ALARK",
+    "gonderici": "A1",
+    "alici": "Global",
+    "ort_transfer": 4083.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ALARK",
+    "gonderici": "A1",
+    "alici": "HSBC",
+    "ort_transfer": 4083.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ALARK",
+    "gonderici": "A1",
+    "alici": "Halk",
+    "ort_transfer": 4083.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ALARK",
+    "gonderici": "A1",
+    "alici": "Inv. AZ",
+    "ort_transfer": 4083.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ALARK",
+    "gonderici": "A1",
+    "alici": "Midas",
+    "ort_transfer": 4083.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ALARK",
+    "gonderici": "A1",
+    "alici": "TEB Yat.",
+    "ort_transfer": 4083.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ALARK",
+    "gonderici": "A1",
+    "alici": "Tacirler",
+    "ort_transfer": 4083.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ALARK",
+    "gonderici": "A1",
+    "alici": "Yat. Fin.",
+    "ort_transfer": 4083.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ALARK",
+    "gonderici": "A1",
+    "alici": "Ziraat",
+    "ort_transfer": 4083.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ALARK",
+    "gonderici": "A1",
+    "alici": "İş",
+    "ort_transfer": 4083.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ALBRK",
+    "gonderici": "Deniz",
+    "alici": "A1",
+    "ort_transfer": 44811.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ALBRK",
+    "gonderici": "Oyak",
+    "alici": "A1",
+    "ort_transfer": 8749.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ALBRK",
+    "gonderici": "TEB Yat.",
+    "alici": "A1",
+    "ort_transfer": 4704.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ALBRK",
+    "gonderici": "Ünlü",
+    "alici": "A1",
+    "ort_transfer": 807745.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ALBRK",
+    "gonderici": "İnfo",
+    "alici": "A1",
+    "ort_transfer": 5000.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ALBRK",
+    "gonderici": "İş",
+    "alici": "A1",
+    "ort_transfer": 133657.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ARCLK",
+    "gonderici": "A1",
+    "alici": "Deniz",
+    "ort_transfer": 7730.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ARCLK",
+    "gonderici": "A1",
+    "alici": "Garanti",
+    "ort_transfer": 7730.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ARCLK",
+    "gonderici": "A1",
+    "alici": "Global",
+    "ort_transfer": 7730.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ARCLK",
+    "gonderici": "A1",
+    "alici": "Osmanlı",
+    "ort_transfer": 7730.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ARCLK",
+    "gonderici": "A1",
+    "alici": "QNB",
+    "ort_transfer": 7730.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ARCLK",
+    "gonderici": "A1",
+    "alici": "Tacirler",
+    "ort_transfer": 7730.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ARCLK",
+    "gonderici": "A1",
+    "alici": "Yapı Kr.",
+    "ort_transfer": 7730.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ASELS",
+    "gonderici": "A1",
+    "alici": "Ak",
+    "ort_transfer": 13633.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ASELS",
+    "gonderici": "A1",
+    "alici": "BofA",
+    "ort_transfer": 13633.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ASELS",
+    "gonderici": "A1",
+    "alici": "Deniz",
+    "ort_transfer": 13633.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ASELS",
+    "gonderici": "A1",
+    "alici": "Garanti",
+    "ort_transfer": 13633.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ASELS",
+    "gonderici": "A1",
+    "alici": "Global",
+    "ort_transfer": 13633.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ASELS",
+    "gonderici": "A1",
+    "alici": "Kuv.Türk",
+    "ort_transfer": 13633.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ASELS",
+    "gonderici": "A1",
+    "alici": "Meksa",
+    "ort_transfer": 13633.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ASELS",
+    "gonderici": "A1",
+    "alici": "Midas",
+    "ort_transfer": 13633.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ASELS",
+    "gonderici": "A1",
+    "alici": "Oyak",
+    "ort_transfer": 13633.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ASELS",
+    "gonderici": "A1",
+    "alici": "TEB Yat.",
+    "ort_transfer": 13633.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ASELS",
+    "gonderici": "A1",
+    "alici": "Tacirler",
+    "ort_transfer": 13633.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ASELS",
+    "gonderici": "A1",
+    "alici": "Yat. Fin.",
+    "ort_transfer": 13633.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ASELS",
+    "gonderici": "A1",
+    "alici": "Ünlü",
+    "ort_transfer": 13633.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ASTOR",
+    "gonderici": "A1",
+    "alici": "Ahlatcı",
+    "ort_transfer": 5083.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ASTOR",
+    "gonderici": "A1",
+    "alici": "Alnus",
+    "ort_transfer": 5083.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ASTOR",
+    "gonderici": "A1",
+    "alici": "BofA",
+    "ort_transfer": 5083.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ASTOR",
+    "gonderici": "A1",
+    "alici": "Global",
+    "ort_transfer": 5083.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ASTOR",
+    "gonderici": "A1",
+    "alici": "Inv. AZ",
+    "ort_transfer": 5083.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ASTOR",
+    "gonderici": "A1",
+    "alici": "Kuv.Türk",
+    "ort_transfer": 5083.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ASTOR",
+    "gonderici": "A1",
+    "alici": "Marbaş",
+    "ort_transfer": 5083.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ASTOR",
+    "gonderici": "A1",
+    "alici": "Oyak",
+    "ort_transfer": 5083.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ASTOR",
+    "gonderici": "A1",
+    "alici": "TEB Yat.",
+    "ort_transfer": 5083.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ASTOR",
+    "gonderici": "A1",
+    "alici": "Tacirler",
+    "ort_transfer": 5083.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ASTOR",
+    "gonderici": "A1",
+    "alici": "Tera",
+    "ort_transfer": 5083.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "AYDEM",
+    "gonderici": "Ata",
+    "alici": "A1",
+    "ort_transfer": 100000.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "AYDEM",
+    "gonderici": "Global",
+    "alici": "A1",
+    "ort_transfer": 0.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "AYDEM",
+    "gonderici": "Midas",
+    "alici": "A1",
+    "ort_transfer": 513.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "AYDEM",
+    "gonderici": "TEB Yat.",
+    "alici": "A1",
+    "ort_transfer": 42027.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "AYDEM",
+    "gonderici": "Yapı Kr.",
+    "alici": "A1",
+    "ort_transfer": 1854.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "AYDEM",
+    "gonderici": "Yat. Fin.",
+    "alici": "A1",
+    "ort_transfer": 3688.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "AYDEM",
+    "gonderici": "Ünlü",
+    "alici": "A1",
+    "ort_transfer": 4847.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "AYDEM",
+    "gonderici": "İnfo",
+    "alici": "A1",
+    "ort_transfer": 9978.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "AYEN",
+    "gonderici": "A1",
+    "alici": "Garanti",
+    "ort_transfer": 543.0,
+    "korelasyon": -1.0,
+    "olasilik": 100
+  },
+  {
+    "hisse": "AYEN",
+    "gonderici": "A1",
+    "alici": "Midas",
+    "ort_transfer": 543.0,
+    "korelasyon": 1.0,
+    "olasilik": 100
+  },
+  {
+    "hisse": "AYEN",
+    "gonderici": "A1",
+    "alici": "Vakıf",
+    "ort_transfer": 543.0,
+    "korelasyon": -1.0,
+    "olasilik": 100
+  },
+  {
+    "hisse": "AYEN",
+    "gonderici": "A1",
+    "alici": "Yapı Kr.",
+    "ort_transfer": 543.0,
+    "korelasyon": 1.0,
+    "olasilik": 100
+  },
+  {
+    "hisse": "BIENY",
+    "gonderici": "A1",
+    "alici": "Garanti",
+    "ort_transfer": 10000.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "BIENY",
+    "gonderici": "A1",
+    "alici": "Midas",
+    "ort_transfer": 10000.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "BIENY",
+    "gonderici": "A1",
+    "alici": "QNB",
+    "ort_transfer": 10000.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "BIENY",
+    "gonderici": "A1",
+    "alici": "Vakıf",
+    "ort_transfer": 10000.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "BIENY",
+    "gonderici": "A1",
+    "alici": "Yat. Fin.",
+    "ort_transfer": 10000.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "BIMAS",
+    "gonderici": "A1",
+    "alici": "Garanti",
+    "ort_transfer": 141402.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "BIMAS",
+    "gonderici": "A1",
+    "alici": "HSBC",
+    "ort_transfer": 141402.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "BIMAS",
+    "gonderici": "A1",
+    "alici": "Halk",
+    "ort_transfer": 141402.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "BIMAS",
+    "gonderici": "A1",
+    "alici": "Kuv.Türk",
+    "ort_transfer": 141402.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "BIMAS",
+    "gonderici": "A1",
+    "alici": "Midas",
+    "ort_transfer": 141402.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "BIMAS",
+    "gonderici": "A1",
+    "alici": "Osmanlı",
+    "ort_transfer": 141402.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "BIMAS",
+    "gonderici": "A1",
+    "alici": "Oyak",
+    "ort_transfer": 141402.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "BIMAS",
+    "gonderici": "A1",
+    "alici": "Tacirler",
+    "ort_transfer": 141402.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "BIMAS",
+    "gonderici": "A1",
+    "alici": "Vakıf",
+    "ort_transfer": 141402.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "BIMAS",
+    "gonderici": "A1",
+    "alici": "Yapı Kr.",
+    "ort_transfer": 141402.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "BIMAS",
+    "gonderici": "A1",
+    "alici": "Yat. Fin.",
+    "ort_transfer": 141402.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "BIMAS",
+    "gonderici": "A1",
+    "alici": "İnfo",
+    "ort_transfer": 141402.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "BIMAS",
+    "gonderici": "A1",
+    "alici": "İş",
+    "ort_transfer": 141402.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "BRSAN",
+    "gonderici": "A1",
+    "alici": "Ak",
+    "ort_transfer": 175.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "BRSAN",
+    "gonderici": "A1",
+    "alici": "Alnus",
+    "ort_transfer": 175.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "BRSAN",
+    "gonderici": "A1",
+    "alici": "Bulls",
+    "ort_transfer": 175.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "BRSAN",
+    "gonderici": "A1",
+    "alici": "Colendi",
+    "ort_transfer": 175.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "BRSAN",
+    "gonderici": "A1",
+    "alici": "Deniz",
+    "ort_transfer": 175.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "BRSAN",
+    "gonderici": "A1",
+    "alici": "HSBC",
+    "ort_transfer": 175.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "BRSAN",
+    "gonderici": "A1",
+    "alici": "İnfo",
+    "ort_transfer": 175.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "BRSAN",
+    "gonderici": "A1",
+    "alici": "İş",
+    "ort_transfer": 175.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "CIMSA",
+    "gonderici": "A1",
+    "alici": "Bulls",
+    "ort_transfer": 780.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "CIMSA",
+    "gonderici": "A1",
+    "alici": "Deniz",
+    "ort_transfer": 780.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "CIMSA",
+    "gonderici": "A1",
+    "alici": "Garanti",
+    "ort_transfer": 780.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "CIMSA",
+    "gonderici": "A1",
+    "alici": "Gedik",
+    "ort_transfer": 780.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "CIMSA",
+    "gonderici": "A1",
+    "alici": "Global",
+    "ort_transfer": 780.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "CIMSA",
+    "gonderici": "A1",
+    "alici": "Marbaş",
+    "ort_transfer": 780.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "CIMSA",
+    "gonderici": "A1",
+    "alici": "Midas",
+    "ort_transfer": 780.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "CIMSA",
+    "gonderici": "A1",
+    "alici": "QNB",
+    "ort_transfer": 780.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "CIMSA",
+    "gonderici": "A1",
+    "alici": "TEB Yat.",
+    "ort_transfer": 780.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "CIMSA",
+    "gonderici": "A1",
+    "alici": "Tera",
+    "ort_transfer": 780.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "CIMSA",
+    "gonderici": "A1",
+    "alici": "Yat. Fin.",
+    "ort_transfer": 780.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "CIMSA",
+    "gonderici": "A1",
+    "alici": "İş",
+    "ort_transfer": 780.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "CWENE",
+    "gonderici": "A1",
+    "alici": "Ak",
+    "ort_transfer": 875000.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "CWENE",
+    "gonderici": "A1",
+    "alici": "Alnus",
+    "ort_transfer": 875000.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "CWENE",
+    "gonderici": "A1",
+    "alici": "Bulls",
+    "ort_transfer": 875000.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "CWENE",
+    "gonderici": "A1",
+    "alici": "Garanti",
+    "ort_transfer": 875000.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "CWENE",
+    "gonderici": "A1",
+    "alici": "Gedik",
+    "ort_transfer": 875000.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "CWENE",
+    "gonderici": "A1",
+    "alici": "Global",
+    "ort_transfer": 875000.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "CWENE",
+    "gonderici": "A1",
+    "alici": "Midas",
+    "ort_transfer": 875000.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "CWENE",
+    "gonderici": "A1",
+    "alici": "Osmanlı",
+    "ort_transfer": 875000.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "CWENE",
+    "gonderici": "A1",
+    "alici": "QNB",
+    "ort_transfer": 875000.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "CWENE",
+    "gonderici": "A1",
+    "alici": "Yapı Kr.",
+    "ort_transfer": 875000.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "CWENE",
+    "gonderici": "A1",
+    "alici": "Yat. Fin.",
+    "ort_transfer": 875000.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "CWENE",
+    "gonderici": "A1",
+    "alici": "Ünlü",
+    "ort_transfer": 875000.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "CWENE",
+    "gonderici": "A1",
+    "alici": "İnfo",
+    "ort_transfer": 875000.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "CWENE",
+    "gonderici": "A1",
+    "alici": "İş",
+    "ort_transfer": 875000.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "DOAS",
+    "gonderici": "A1",
+    "alici": "Bulls",
+    "ort_transfer": 7300.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "DOAS",
+    "gonderici": "A1",
+    "alici": "Halk",
+    "ort_transfer": 7300.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "DOAS",
+    "gonderici": "A1",
+    "alici": "Midas",
+    "ort_transfer": 7300.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "DOAS",
+    "gonderici": "A1",
+    "alici": "QNB",
+    "ort_transfer": 7300.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "DOAS",
+    "gonderici": "A1",
+    "alici": "Trive",
+    "ort_transfer": 7300.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "DOAS",
+    "gonderici": "A1",
+    "alici": "Yapı Kr.",
+    "ort_transfer": 7300.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "DOAS",
+    "gonderici": "A1",
+    "alici": "İş",
+    "ort_transfer": 7300.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "DOHOL",
+    "gonderici": "A1",
+    "alici": "Ak",
+    "ort_transfer": 119100.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "DOHOL",
+    "gonderici": "A1",
+    "alici": "Ata",
+    "ort_transfer": 119100.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "DOHOL",
+    "gonderici": "A1",
+    "alici": "Bulls",
+    "ort_transfer": 119100.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "DOHOL",
+    "gonderici": "A1",
+    "alici": "Deniz",
+    "ort_transfer": 119100.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "DOHOL",
+    "gonderici": "A1",
+    "alici": "Garanti",
+    "ort_transfer": 119100.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "DOHOL",
+    "gonderici": "A1",
+    "alici": "Halk",
+    "ort_transfer": 119100.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "DOHOL",
+    "gonderici": "A1",
+    "alici": "TEB Yat.",
+    "ort_transfer": 119100.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "DOHOL",
+    "gonderici": "A1",
+    "alici": "Tera",
+    "ort_transfer": 119100.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "DOHOL",
+    "gonderici": "A1",
+    "alici": "Vakıf",
+    "ort_transfer": 119100.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "DOHOL",
+    "gonderici": "A1",
+    "alici": "Yapı Kr.",
+    "ort_transfer": 119100.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "DOHOL",
+    "gonderici": "A1",
+    "alici": "Ziraat",
+    "ort_transfer": 119100.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "DOHOL",
+    "gonderici": "A1",
+    "alici": "Ünlü",
+    "ort_transfer": 119100.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "DOHOL",
+    "gonderici": "A1",
+    "alici": "İnfo",
+    "ort_transfer": 119100.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "EGEEN",
+    "gonderici": "A1",
+    "alici": "Kuv.Türk",
+    "ort_transfer": 1.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "EGEEN",
+    "gonderici": "A1",
+    "alici": "Midas",
+    "ort_transfer": 1.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "EGEEN",
+    "gonderici": "A1",
+    "alici": "Yapı Kr.",
+    "ort_transfer": 1.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "EGEEN",
+    "gonderici": "A1",
+    "alici": "Ziraat",
+    "ort_transfer": 1.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "EGEEN",
+    "gonderici": "A1",
+    "alici": "Şeker",
+    "ort_transfer": 1.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "EKGYO",
+    "gonderici": "A1",
+    "alici": "Ak",
+    "ort_transfer": 4754412.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "EKGYO",
+    "gonderici": "A1",
+    "alici": "BofA",
+    "ort_transfer": 4754412.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "EKGYO",
+    "gonderici": "A1",
+    "alici": "Bulls",
+    "ort_transfer": 4754412.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "EKGYO",
+    "gonderici": "A1",
+    "alici": "Deniz",
+    "ort_transfer": 4754412.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "EKGYO",
+    "gonderici": "A1",
+    "alici": "HSBC",
+    "ort_transfer": 4754412.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "EKGYO",
+    "gonderici": "A1",
+    "alici": "Halk",
+    "ort_transfer": 4754412.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "EKGYO",
+    "gonderici": "A1",
+    "alici": "ICBC",
+    "ort_transfer": 4754412.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "EKGYO",
+    "gonderici": "A1",
+    "alici": "Midas",
+    "ort_transfer": 4754412.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "EKGYO",
+    "gonderici": "A1",
+    "alici": "Osmanlı",
+    "ort_transfer": 4754412.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "EKGYO",
+    "gonderici": "A1",
+    "alici": "Oyak",
+    "ort_transfer": 4754412.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "EKGYO",
+    "gonderici": "A1",
+    "alici": "Phillip",
+    "ort_transfer": 4754412.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "EKGYO",
+    "gonderici": "A1",
+    "alici": "QNB",
+    "ort_transfer": 4754412.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "EKGYO",
+    "gonderici": "A1",
+    "alici": "Tacirler",
+    "ort_transfer": 4754412.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "EKGYO",
+    "gonderici": "A1",
+    "alici": "Tera",
+    "ort_transfer": 4754412.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "EKGYO",
+    "gonderici": "A1",
+    "alici": "Yapı Kr.",
+    "ort_transfer": 4754412.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "EKGYO",
+    "gonderici": "A1",
+    "alici": "İnfo",
+    "ort_transfer": 4754412.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "EKGYO",
+    "gonderici": "A1",
+    "alici": "İş",
+    "ort_transfer": 4754412.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "EKGYO",
+    "gonderici": "A1",
+    "alici": "Şeker",
+    "ort_transfer": 4754412.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ENERY",
+    "gonderici": "A1",
+    "alici": "Garanti",
+    "ort_transfer": 341.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ENERY",
+    "gonderici": "A1",
+    "alici": "Global",
+    "ort_transfer": 341.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ENERY",
+    "gonderici": "A1",
+    "alici": "QNB",
+    "ort_transfer": 341.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ENERY",
+    "gonderici": "A1",
+    "alici": "Tacirler",
+    "ort_transfer": 341.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ENERY",
+    "gonderici": "A1",
+    "alici": "Tera",
+    "ort_transfer": 341.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ENERY",
+    "gonderici": "A1",
+    "alici": "Yapı Kr.",
+    "ort_transfer": 341.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ENERY",
+    "gonderici": "A1",
+    "alici": "İş",
+    "ort_transfer": 341.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ENJSA",
+    "gonderici": "Ak",
+    "alici": "A1",
+    "ort_transfer": 13072.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ENJSA",
+    "gonderici": "Ata",
+    "alici": "A1",
+    "ort_transfer": 125.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ENJSA",
+    "gonderici": "BofA",
+    "alici": "A1",
+    "ort_transfer": 13445.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ENJSA",
+    "gonderici": "Burgan",
+    "alici": "A1",
+    "ort_transfer": 181.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ENJSA",
+    "gonderici": "Gedik",
+    "alici": "A1",
+    "ort_transfer": 40134.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ENJSA",
+    "gonderici": "Midas",
+    "alici": "A1",
+    "ort_transfer": 517.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ENJSA",
+    "gonderici": "Piramit",
+    "alici": "A1",
+    "ort_transfer": 550.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ENJSA",
+    "gonderici": "QNB",
+    "alici": "A1",
+    "ort_transfer": 25284.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ENJSA",
+    "gonderici": "Tacirler",
+    "alici": "A1",
+    "ort_transfer": 1568.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ENJSA",
+    "gonderici": "Yapı Kr.",
+    "alici": "A1",
+    "ort_transfer": 19746.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ENJSA",
+    "gonderici": "Yat. Fin.",
+    "alici": "A1",
+    "ort_transfer": 6790.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ENJSA",
+    "gonderici": "Ünlü",
+    "alici": "A1",
+    "ort_transfer": 54248.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ENJSA",
+    "gonderici": "İnfo",
+    "alici": "A1",
+    "ort_transfer": 50.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ENJSA",
+    "gonderici": "İş",
+    "alici": "A1",
+    "ort_transfer": 237718.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ENKAI",
+    "gonderici": "A1",
+    "alici": "Bulls",
+    "ort_transfer": 17246.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ENKAI",
+    "gonderici": "A1",
+    "alici": "Deniz",
+    "ort_transfer": 17246.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ENKAI",
+    "gonderici": "A1",
+    "alici": "HSBC",
+    "ort_transfer": 17246.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ENKAI",
+    "gonderici": "A1",
+    "alici": "Halk",
+    "ort_transfer": 17246.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ENKAI",
+    "gonderici": "A1",
+    "alici": "Midas",
+    "ort_transfer": 17246.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ENKAI",
+    "gonderici": "A1",
+    "alici": "Osmanlı",
+    "ort_transfer": 17246.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ENKAI",
+    "gonderici": "A1",
+    "alici": "Oyak",
+    "ort_transfer": 17246.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ENKAI",
+    "gonderici": "A1",
+    "alici": "QNB",
+    "ort_transfer": 17246.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ENKAI",
+    "gonderici": "A1",
+    "alici": "TEB Yat.",
+    "ort_transfer": 17246.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ENKAI",
+    "gonderici": "A1",
+    "alici": "Tacirler",
+    "ort_transfer": 17246.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ENKAI",
+    "gonderici": "A1",
+    "alici": "Vakıf",
+    "ort_transfer": 17246.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "EREGL",
+    "gonderici": "A1",
+    "alici": "Ünlü",
+    "ort_transfer": 258084.6,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "EREGL",
+    "gonderici": "A1",
+    "alici": "Tera",
+    "ort_transfer": 258084.6,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "EREGL",
+    "gonderici": "A1",
+    "alici": "Garanti",
+    "ort_transfer": 258084.6,
+    "korelasyon": -0.999,
+    "olasilik": 99.9
+  },
+  {
+    "hisse": "EREGL",
+    "gonderici": "A1",
+    "alici": "Deniz",
+    "ort_transfer": 258084.6,
+    "korelasyon": -0.984,
+    "olasilik": 98.4
+  },
+  {
+    "hisse": "EREGL",
+    "gonderici": "A1",
+    "alici": "Oyak",
+    "ort_transfer": 258084.6,
+    "korelasyon": -0.933,
+    "olasilik": 93.3
+  },
+  {
+    "hisse": "EREGL",
+    "gonderici": "A1",
+    "alici": "HSBC",
+    "ort_transfer": 258084.6,
+    "korelasyon": 0.683,
+    "olasilik": 68.3
+  },
+  {
+    "hisse": "EUREN",
+    "gonderici": "A1",
+    "alici": "Ak",
+    "ort_transfer": 50000.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "EUREN",
+    "gonderici": "A1",
+    "alici": "Gedik",
+    "ort_transfer": 50000.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "EUREN",
+    "gonderici": "A1",
+    "alici": "Midas",
+    "ort_transfer": 50000.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "EUREN",
+    "gonderici": "A1",
+    "alici": "Ziraat",
+    "ort_transfer": 50000.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "EUPWR",
+    "gonderici": "Ak",
+    "alici": "A1",
+    "ort_transfer": 47970.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "EUPWR",
+    "gonderici": "BofA",
+    "alici": "A1",
+    "ort_transfer": 540.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "EUPWR",
+    "gonderici": "Gedik",
+    "alici": "A1",
+    "ort_transfer": 740.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "EUPWR",
+    "gonderici": "HSBC",
+    "alici": "A1",
+    "ort_transfer": 54260.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "EUPWR",
+    "gonderici": "Halk",
+    "alici": "A1",
+    "ort_transfer": 1296.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "EUPWR",
+    "gonderici": "Osmanlı",
+    "alici": "A1",
+    "ort_transfer": 28911.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "EUPWR",
+    "gonderici": "QNB",
+    "alici": "A1",
+    "ort_transfer": 152491.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "EUPWR",
+    "gonderici": "TEB Yat.",
+    "alici": "A1",
+    "ort_transfer": 215682.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "EUPWR",
+    "gonderici": "Yapı Kr.",
+    "alici": "A1",
+    "ort_transfer": 50001.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "EUPWR",
+    "gonderici": "Yat. Fin.",
+    "alici": "A1",
+    "ort_transfer": 30288.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "EUPWR",
+    "gonderici": "Ziraat",
+    "alici": "A1",
+    "ort_transfer": 32130.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "EUPWR",
+    "gonderici": "Ünlü",
+    "alici": "A1",
+    "ort_transfer": 61251.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "EUPWR",
+    "gonderici": "İnfo",
+    "alici": "A1",
+    "ort_transfer": 455.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "FROTO",
+    "gonderici": "A1",
+    "alici": "Ak",
+    "ort_transfer": 624765.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "FROTO",
+    "gonderici": "A1",
+    "alici": "Ata",
+    "ort_transfer": 624765.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "FROTO",
+    "gonderici": "A1",
+    "alici": "Deniz",
+    "ort_transfer": 624765.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "FROTO",
+    "gonderici": "A1",
+    "alici": "Garanti",
+    "ort_transfer": 624765.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "FROTO",
+    "gonderici": "A1",
+    "alici": "Global",
+    "ort_transfer": 624765.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "FROTO",
+    "gonderici": "A1",
+    "alici": "Halk",
+    "ort_transfer": 624765.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "FROTO",
+    "gonderici": "A1",
+    "alici": "Kuv.Türk",
+    "ort_transfer": 624765.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "FROTO",
+    "gonderici": "A1",
+    "alici": "Midas",
+    "ort_transfer": 624765.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "FROTO",
+    "gonderici": "A1",
+    "alici": "Osmanlı",
+    "ort_transfer": 624765.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "FROTO",
+    "gonderici": "A1",
+    "alici": "TEB Yat.",
+    "ort_transfer": 624765.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "FROTO",
+    "gonderici": "A1",
+    "alici": "Tacirler",
+    "ort_transfer": 624765.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "FROTO",
+    "gonderici": "A1",
+    "alici": "Yapı Kr.",
+    "ort_transfer": 624765.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "FROTO",
+    "gonderici": "A1",
+    "alici": "Yat. Fin.",
+    "ort_transfer": 624765.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "FROTO",
+    "gonderici": "A1",
+    "alici": "İş",
+    "ort_transfer": 624765.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "GARAN",
+    "gonderici": "A1",
+    "alici": "Ak",
+    "ort_transfer": 560582.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "GARAN",
+    "gonderici": "A1",
+    "alici": "Ata",
+    "ort_transfer": 560582.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "GARAN",
+    "gonderici": "A1",
+    "alici": "Bulls",
+    "ort_transfer": 560582.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "GARAN",
+    "gonderici": "A1",
+    "alici": "Deniz",
+    "ort_transfer": 560582.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "GARAN",
+    "gonderici": "A1",
+    "alici": "Global",
+    "ort_transfer": 560582.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "GARAN",
+    "gonderici": "A1",
+    "alici": "HSBC",
+    "ort_transfer": 560582.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "GARAN",
+    "gonderici": "A1",
+    "alici": "Halk",
+    "ort_transfer": 560582.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "GARAN",
+    "gonderici": "A1",
+    "alici": "Midas",
+    "ort_transfer": 560582.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "GARAN",
+    "gonderici": "A1",
+    "alici": "Tacirler",
+    "ort_transfer": 560582.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "GARAN",
+    "gonderici": "A1",
+    "alici": "Vakıf",
+    "ort_transfer": 560582.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "GARAN",
+    "gonderici": "A1",
+    "alici": "Yat. Fin.",
+    "ort_transfer": 560582.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "GARAN",
+    "gonderici": "A1",
+    "alici": "Ziraat",
+    "ort_transfer": 560582.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "GARAN",
+    "gonderici": "A1",
+    "alici": "Ünlü",
+    "ort_transfer": 560582.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "GARAN",
+    "gonderici": "A1",
+    "alici": "İnfo",
+    "ort_transfer": 560582.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "GENIL",
+    "gonderici": "A1",
+    "alici": "Deniz",
+    "ort_transfer": 445000.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "GENIL",
+    "gonderici": "A1",
+    "alici": "Destek",
+    "ort_transfer": 445000.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "GENIL",
+    "gonderici": "A1",
+    "alici": "Garanti",
+    "ort_transfer": 445000.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "GENIL",
+    "gonderici": "A1",
+    "alici": "Global",
+    "ort_transfer": 445000.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "GENIL",
+    "gonderici": "A1",
+    "alici": "QNB",
+    "ort_transfer": 445000.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "GENIL",
+    "gonderici": "A1",
+    "alici": "TEB Yat.",
+    "ort_transfer": 445000.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "GENIL",
+    "gonderici": "A1",
+    "alici": "İş",
+    "ort_transfer": 445000.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "GESAN",
+    "gonderici": "A1",
+    "alici": "Ak",
+    "ort_transfer": 29154.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "GESAN",
+    "gonderici": "A1",
+    "alici": "Garanti",
+    "ort_transfer": 29154.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "GESAN",
+    "gonderici": "A1",
+    "alici": "Gedik",
+    "ort_transfer": 29154.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "GESAN",
+    "gonderici": "A1",
+    "alici": "HSBC",
+    "ort_transfer": 29154.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "GESAN",
+    "gonderici": "A1",
+    "alici": "Midas",
+    "ort_transfer": 29154.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "GESAN",
+    "gonderici": "A1",
+    "alici": "Osmanlı",
+    "ort_transfer": 29154.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "GESAN",
+    "gonderici": "A1",
+    "alici": "Vakıf",
+    "ort_transfer": 29154.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "GESAN",
+    "gonderici": "A1",
+    "alici": "İnfo",
+    "ort_transfer": 29154.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "GLYHO",
+    "gonderici": "Ak",
+    "alici": "A1",
+    "ort_transfer": 5000.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "GLYHO",
+    "gonderici": "Ata",
+    "alici": "A1",
+    "ort_transfer": 93235.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "GLYHO",
+    "gonderici": "BofA",
+    "alici": "A1",
+    "ort_transfer": 1550.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "GLYHO",
+    "gonderici": "HSBC",
+    "alici": "A1",
+    "ort_transfer": 6500.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "GLYHO",
+    "gonderici": "Oyak",
+    "alici": "A1",
+    "ort_transfer": 75000.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "GLYHO",
+    "gonderici": "Yapı Kr.",
+    "alici": "A1",
+    "ort_transfer": 22578.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "GLYHO",
+    "gonderici": "Ünlü",
+    "alici": "A1",
+    "ort_transfer": 99763.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "GUBRF",
+    "gonderici": "Ak",
+    "alici": "A1",
+    "ort_transfer": 183861.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "GUBRF",
+    "gonderici": "Alnus",
+    "alici": "A1",
+    "ort_transfer": 9759.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "GUBRF",
+    "gonderici": "BofA",
+    "alici": "A1",
+    "ort_transfer": 2623.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "GUBRF",
+    "gonderici": "Marbaş",
+    "alici": "A1",
+    "ort_transfer": 125.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "GUBRF",
+    "gonderici": "Piramit",
+    "alici": "A1",
+    "ort_transfer": 300.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "GUBRF",
+    "gonderici": "Vakıf",
+    "alici": "A1",
+    "ort_transfer": 3156.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "GUBRF",
+    "gonderici": "Yapı Kr.",
+    "alici": "A1",
+    "ort_transfer": 11117.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "GUBRF",
+    "gonderici": "Ziraat",
+    "alici": "A1",
+    "ort_transfer": 25559.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "GUBRF",
+    "gonderici": "Ünlü",
+    "alici": "A1",
+    "ort_transfer": 45000.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "HALKB",
+    "gonderici": "A1",
+    "alici": "Ahlatcı",
+    "ort_transfer": 21888.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "HALKB",
+    "gonderici": "A1",
+    "alici": "Deniz",
+    "ort_transfer": 21888.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "HALKB",
+    "gonderici": "A1",
+    "alici": "Gedik",
+    "ort_transfer": 21888.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "HALKB",
+    "gonderici": "A1",
+    "alici": "Marbaş",
+    "ort_transfer": 21888.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "HALKB",
+    "gonderici": "A1",
+    "alici": "Midas",
+    "ort_transfer": 21888.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "HALKB",
+    "gonderici": "A1",
+    "alici": "Osmanlı",
+    "ort_transfer": 21888.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "HALKB",
+    "gonderici": "A1",
+    "alici": "QNB",
+    "ort_transfer": 21888.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "HALKB",
+    "gonderici": "A1",
+    "alici": "TEB Yat.",
+    "ort_transfer": 21888.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "HALKB",
+    "gonderici": "A1",
+    "alici": "Vakıf",
+    "ort_transfer": 21888.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "HALKB",
+    "gonderici": "A1",
+    "alici": "Ziraat",
+    "ort_transfer": 21888.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "HALKB",
+    "gonderici": "A1",
+    "alici": "İş",
+    "ort_transfer": 21888.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ISCTR",
+    "gonderici": "A1",
+    "alici": "Ak",
+    "ort_transfer": 4230509.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ISCTR",
+    "gonderici": "A1",
+    "alici": "Alnus",
+    "ort_transfer": 4230509.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ISCTR",
+    "gonderici": "A1",
+    "alici": "Destek",
+    "ort_transfer": 4230509.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ISCTR",
+    "gonderici": "A1",
+    "alici": "HSBC",
+    "ort_transfer": 4230509.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ISCTR",
+    "gonderici": "A1",
+    "alici": "Halk",
+    "ort_transfer": 4230509.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ISCTR",
+    "gonderici": "A1",
+    "alici": "Marbaş",
+    "ort_transfer": 4230509.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ISCTR",
+    "gonderici": "A1",
+    "alici": "Oyak",
+    "ort_transfer": 4230509.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ISCTR",
+    "gonderici": "A1",
+    "alici": "Pusula",
+    "ort_transfer": 4230509.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ISCTR",
+    "gonderici": "A1",
+    "alici": "TEB Yat.",
+    "ort_transfer": 4230509.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ISCTR",
+    "gonderici": "A1",
+    "alici": "Tacirler",
+    "ort_transfer": 4230509.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ISCTR",
+    "gonderici": "A1",
+    "alici": "Trive",
+    "ort_transfer": 4230509.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ISCTR",
+    "gonderici": "A1",
+    "alici": "Vakıf",
+    "ort_transfer": 4230509.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ISCTR",
+    "gonderici": "A1",
+    "alici": "Ziraat",
+    "ort_transfer": 4230509.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ISDMR",
+    "gonderici": "AXM",
+    "alici": "A1",
+    "ort_transfer": 82.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ISDMR",
+    "gonderici": "BofA",
+    "alici": "A1",
+    "ort_transfer": 38478.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ISDMR",
+    "gonderici": "Global",
+    "alici": "A1",
+    "ort_transfer": 6860.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ISDMR",
+    "gonderici": "Meksa",
+    "alici": "A1",
+    "ort_transfer": 19239.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ISDMR",
+    "gonderici": "Midas",
+    "alici": "A1",
+    "ort_transfer": 182.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ISDMR",
+    "gonderici": "İş",
+    "alici": "A1",
+    "ort_transfer": 35268.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ISGYO",
+    "gonderici": "Ak",
+    "alici": "A1",
+    "ort_transfer": 1.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ISGYO",
+    "gonderici": "Ata",
+    "alici": "A1",
+    "ort_transfer": 10000.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ISGYO",
+    "gonderici": "BofA",
+    "alici": "A1",
+    "ort_transfer": 1240.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ISGYO",
+    "gonderici": "Garanti",
+    "alici": "A1",
+    "ort_transfer": 0.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ISGYO",
+    "gonderici": "Phillip",
+    "alici": "A1",
+    "ort_transfer": 430.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ISGYO",
+    "gonderici": "TEB Yat.",
+    "alici": "A1",
+    "ort_transfer": 43137.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ISGYO",
+    "gonderici": "İş",
+    "alici": "A1",
+    "ort_transfer": 283742.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "IZENR",
+    "gonderici": "Alnus",
+    "alici": "A1",
+    "ort_transfer": 20000.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "IZENR",
+    "gonderici": "Bizim",
+    "alici": "A1",
+    "ort_transfer": 0.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "IZENR",
+    "gonderici": "BofA",
+    "alici": "A1",
+    "ort_transfer": 0.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "IZENR",
+    "gonderici": "Deniz",
+    "alici": "A1",
+    "ort_transfer": 287500.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "IZENR",
+    "gonderici": "Global",
+    "alici": "A1",
+    "ort_transfer": 2864676.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "IZENR",
+    "gonderici": "Pusula",
+    "alici": "A1",
+    "ort_transfer": 0.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "IZENR",
+    "gonderici": "QNB",
+    "alici": "A1",
+    "ort_transfer": 375870.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "IZENR",
+    "gonderici": "Tacirler",
+    "alici": "A1",
+    "ort_transfer": 0.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "IZENR",
+    "gonderici": "Tera",
+    "alici": "A1",
+    "ort_transfer": 338976.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "IZENR",
+    "gonderici": "Vakıf",
+    "alici": "A1",
+    "ort_transfer": 132.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "IZENR",
+    "gonderici": "Yapı Kr.",
+    "alici": "A1",
+    "ort_transfer": 2989.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "IZENR",
+    "gonderici": "Yat. Fin.",
+    "alici": "A1",
+    "ort_transfer": 134887.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "IZENR",
+    "gonderici": "Ziraat",
+    "alici": "A1",
+    "ort_transfer": 1155.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "IZENR",
+    "gonderici": "Ünlü",
+    "alici": "A1",
+    "ort_transfer": 115214.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "KCAER",
+    "gonderici": "AXM",
+    "alici": "A1",
+    "ort_transfer": 510.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "KCAER",
+    "gonderici": "Ak",
+    "alici": "A1",
+    "ort_transfer": 132903.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "KCAER",
+    "gonderici": "BofA",
+    "alici": "A1",
+    "ort_transfer": 482766.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "KCAER",
+    "gonderici": "Bulls",
+    "alici": "A1",
+    "ort_transfer": 115033.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "KCAER",
+    "gonderici": "Deniz",
+    "alici": "A1",
+    "ort_transfer": 49445.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "KCAER",
+    "gonderici": "Gedik",
+    "alici": "A1",
+    "ort_transfer": 44188.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "KCAER",
+    "gonderici": "HSBC",
+    "alici": "A1",
+    "ort_transfer": 75000.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "KCAER",
+    "gonderici": "Marbaş",
+    "alici": "A1",
+    "ort_transfer": 74395.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "KCAER",
+    "gonderici": "Osmanlı",
+    "alici": "A1",
+    "ort_transfer": 211835.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "KCAER",
+    "gonderici": "Tacirler",
+    "alici": "A1",
+    "ort_transfer": 7234.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "KCAER",
+    "gonderici": "Vakıf",
+    "alici": "A1",
+    "ort_transfer": 18849.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "KCAER",
+    "gonderici": "Yapı Kr.",
+    "alici": "A1",
+    "ort_transfer": 75037.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "KCAER",
+    "gonderici": "Ziraat",
+    "alici": "A1",
+    "ort_transfer": 32605.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "KCAER",
+    "gonderici": "Ünlü",
+    "alici": "A1",
+    "ort_transfer": 101744.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "KCHOL",
+    "gonderici": "A1",
+    "alici": "Alnus",
+    "ort_transfer": 483505.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "KCHOL",
+    "gonderici": "A1",
+    "alici": "Ata",
+    "ort_transfer": 483505.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "KCHOL",
+    "gonderici": "A1",
+    "alici": "Bulls",
+    "ort_transfer": 483505.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "KCHOL",
+    "gonderici": "A1",
+    "alici": "Deniz",
+    "ort_transfer": 483505.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "KCHOL",
+    "gonderici": "A1",
+    "alici": "Garanti",
+    "ort_transfer": 483505.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "KCHOL",
+    "gonderici": "A1",
+    "alici": "Global",
+    "ort_transfer": 483505.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "KCHOL",
+    "gonderici": "A1",
+    "alici": "HSBC",
+    "ort_transfer": 483505.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "KCHOL",
+    "gonderici": "A1",
+    "alici": "Inv. AZ",
+    "ort_transfer": 483505.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "KCHOL",
+    "gonderici": "A1",
+    "alici": "Marbaş",
+    "ort_transfer": 483505.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "KCHOL",
+    "gonderici": "A1",
+    "alici": "Midas",
+    "ort_transfer": 483505.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "KCHOL",
+    "gonderici": "A1",
+    "alici": "Oyak",
+    "ort_transfer": 483505.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "KCHOL",
+    "gonderici": "A1",
+    "alici": "QNB",
+    "ort_transfer": 483505.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "KCHOL",
+    "gonderici": "A1",
+    "alici": "Strateji",
+    "ort_transfer": 483505.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "KCHOL",
+    "gonderici": "A1",
+    "alici": "Tacirler",
+    "ort_transfer": 483505.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "KCHOL",
+    "gonderici": "A1",
+    "alici": "Tera",
+    "ort_transfer": 483505.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "KCHOL",
+    "gonderici": "A1",
+    "alici": "İnfo",
+    "ort_transfer": 483505.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "KCHOL",
+    "gonderici": "A1",
+    "alici": "İş",
+    "ort_transfer": 483505.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "KMPUR",
+    "gonderici": "A1",
+    "alici": "Oyak",
+    "ort_transfer": 12308.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "KMPUR",
+    "gonderici": "A1",
+    "alici": "Yapı Kr.",
+    "ort_transfer": 12308.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "KMPUR",
+    "gonderici": "A1",
+    "alici": "Yat. Fin.",
+    "ort_transfer": 12308.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "KONTR",
+    "gonderici": "Alnus",
+    "alici": "A1",
+    "ort_transfer": 2502.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "KONTR",
+    "gonderici": "Burgan",
+    "alici": "A1",
+    "ort_transfer": 177.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "KONTR",
+    "gonderici": "Halk",
+    "alici": "A1",
+    "ort_transfer": 1.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "KONTR",
+    "gonderici": "ING",
+    "alici": "A1",
+    "ort_transfer": 2500.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "KONTR",
+    "gonderici": "Marbaş",
+    "alici": "A1",
+    "ort_transfer": 30650.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "KONTR",
+    "gonderici": "Vakıf",
+    "alici": "A1",
+    "ort_transfer": 2225.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "KONTR",
+    "gonderici": "Yapı Kr.",
+    "alici": "A1",
+    "ort_transfer": 872.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "KONTR",
+    "gonderici": "Ziraat",
+    "alici": "A1",
+    "ort_transfer": 5016.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "KORDS",
+    "gonderici": "QNB",
+    "alici": "A1",
+    "ort_transfer": 16063.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "KORDS",
+    "gonderici": "Tacirler",
+    "alici": "A1",
+    "ort_transfer": 500.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "KORDS",
+    "gonderici": "Vakıf",
+    "alici": "A1",
+    "ort_transfer": 835.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "KORDS",
+    "gonderici": "Ünlü",
+    "alici": "A1",
+    "ort_transfer": 13.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "KRDMD",
+    "gonderici": "Ak",
+    "alici": "A1",
+    "ort_transfer": 488366.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "KRDMD",
+    "gonderici": "Alternatif",
+    "alici": "A1",
+    "ort_transfer": 8750.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "KRDMD",
+    "gonderici": "BofA",
+    "alici": "A1",
+    "ort_transfer": 1761748.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "KRDMD",
+    "gonderici": "Deniz",
+    "alici": "A1",
+    "ort_transfer": 16657.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "KRDMD",
+    "gonderici": "Garanti",
+    "alici": "A1",
+    "ort_transfer": 17775.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "KRDMD",
+    "gonderici": "Global",
+    "alici": "A1",
+    "ort_transfer": 33600.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "KRDMD",
+    "gonderici": "HSBC",
+    "alici": "A1",
+    "ort_transfer": 994601.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "KRDMD",
+    "gonderici": "ING",
+    "alici": "A1",
+    "ort_transfer": 671.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "KRDMD",
+    "gonderici": "Marbaş",
+    "alici": "A1",
+    "ort_transfer": 3125.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "KRDMD",
+    "gonderici": "Osmanlı",
+    "alici": "A1",
+    "ort_transfer": 300.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "KRDMD",
+    "gonderici": "Oyak",
+    "alici": "A1",
+    "ort_transfer": 639.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "KRDMD",
+    "gonderici": "QNB",
+    "alici": "A1",
+    "ort_transfer": 174067.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "KRDMD",
+    "gonderici": "TEB Yat.",
+    "alici": "A1",
+    "ort_transfer": 883980.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "KRDMD",
+    "gonderici": "Tera",
+    "alici": "A1",
+    "ort_transfer": 700000.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "KRDMD",
+    "gonderici": "Vakıf",
+    "alici": "A1",
+    "ort_transfer": 140646.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "KRDMD",
+    "gonderici": "Ziraat",
+    "alici": "A1",
+    "ort_transfer": 223171.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "KRDMD",
+    "gonderici": "Ünlü",
+    "alici": "A1",
+    "ort_transfer": 148300.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "KZBGY",
+    "gonderici": "BofA",
+    "alici": "A1",
+    "ort_transfer": 3935.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "KZBGY",
+    "gonderici": "Garanti",
+    "alici": "A1",
+    "ort_transfer": 5552.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "KZBGY",
+    "gonderici": "Global",
+    "alici": "A1",
+    "ort_transfer": 333307.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "KZBGY",
+    "gonderici": "Midas",
+    "alici": "A1",
+    "ort_transfer": 6500.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "KZBGY",
+    "gonderici": "Osmanlı",
+    "alici": "A1",
+    "ort_transfer": 1230.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "KZBGY",
+    "gonderici": "TEB Yat.",
+    "alici": "A1",
+    "ort_transfer": 8993.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "KZBGY",
+    "gonderici": "Yat. Fin.",
+    "alici": "A1",
+    "ort_transfer": 26998.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "KZBGY",
+    "gonderici": "Ünlü",
+    "alici": "A1",
+    "ort_transfer": 2325.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "MGROS",
+    "gonderici": "A1",
+    "alici": "Acar",
+    "ort_transfer": 691.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "MGROS",
+    "gonderici": "A1",
+    "alici": "Ak",
+    "ort_transfer": 691.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "MGROS",
+    "gonderici": "A1",
+    "alici": "Garanti",
+    "ort_transfer": 691.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "MGROS",
+    "gonderici": "A1",
+    "alici": "Halk",
+    "ort_transfer": 691.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "MGROS",
+    "gonderici": "A1",
+    "alici": "Marbaş",
+    "ort_transfer": 691.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "MGROS",
+    "gonderici": "A1",
+    "alici": "Osmanlı",
+    "ort_transfer": 691.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "MGROS",
+    "gonderici": "A1",
+    "alici": "Oyak",
+    "ort_transfer": 691.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "MGROS",
+    "gonderici": "A1",
+    "alici": "QNB",
+    "ort_transfer": 691.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "MGROS",
+    "gonderici": "A1",
+    "alici": "TEB Yat.",
+    "ort_transfer": 691.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "MGROS",
+    "gonderici": "A1",
+    "alici": "Vakıf",
+    "ort_transfer": 691.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "MIATK",
+    "gonderici": "Ak",
+    "alici": "A1",
+    "ort_transfer": 108249.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "MIATK",
+    "gonderici": "BofA",
+    "alici": "A1",
+    "ort_transfer": 47886.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "MIATK",
+    "gonderici": "Deniz",
+    "alici": "A1",
+    "ort_transfer": 70790.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "MIATK",
+    "gonderici": "Garanti",
+    "alici": "A1",
+    "ort_transfer": 2667.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "MIATK",
+    "gonderici": "Osmanlı",
+    "alici": "A1",
+    "ort_transfer": 3779.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "MIATK",
+    "gonderici": "Piramit",
+    "alici": "A1",
+    "ort_transfer": 1975.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "MIATK",
+    "gonderici": "Tacirler",
+    "alici": "A1",
+    "ort_transfer": 20000.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "MIATK",
+    "gonderici": "Vakıf",
+    "alici": "A1",
+    "ort_transfer": 81.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "MIATK",
+    "gonderici": "Yapı Kr.",
+    "alici": "A1",
+    "ort_transfer": 40220.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "MIATK",
+    "gonderici": "Ziraat",
+    "alici": "A1",
+    "ort_transfer": 1697.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "MIATK",
+    "gonderici": "Ünlü",
+    "alici": "A1",
+    "ort_transfer": 334.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ODAS",
+    "gonderici": "Ak",
+    "alici": "A1",
+    "ort_transfer": 12490.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ODAS",
+    "gonderici": "BofA",
+    "alici": "A1",
+    "ort_transfer": 2240.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ODAS",
+    "gonderici": "Bulls",
+    "alici": "A1",
+    "ort_transfer": 1151688.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ODAS",
+    "gonderici": "Marbaş",
+    "alici": "A1",
+    "ort_transfer": 700.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ODAS",
+    "gonderici": "TEB Yat.",
+    "alici": "A1",
+    "ort_transfer": 4750.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ODAS",
+    "gonderici": "Tacirler",
+    "alici": "A1",
+    "ort_transfer": 171050.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ODAS",
+    "gonderici": "Yapı Kr.",
+    "alici": "A1",
+    "ort_transfer": 965541.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ODAS",
+    "gonderici": "Yat. Fin.",
+    "alici": "A1",
+    "ort_transfer": 288728.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ODAS",
+    "gonderici": "İnfo",
+    "alici": "A1",
+    "ort_transfer": 359250.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "OYAKC",
+    "gonderici": "A1",
+    "alici": "Deniz",
+    "ort_transfer": 25843.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "OYAKC",
+    "gonderici": "A1",
+    "alici": "Halk",
+    "ort_transfer": 25843.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "OYAKC",
+    "gonderici": "A1",
+    "alici": "Kuv.Türk",
+    "ort_transfer": 25843.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "OYAKC",
+    "gonderici": "A1",
+    "alici": "Midas",
+    "ort_transfer": 25843.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "OYAKC",
+    "gonderici": "A1",
+    "alici": "Oyak",
+    "ort_transfer": 25843.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "OYAKC",
+    "gonderici": "A1",
+    "alici": "İş",
+    "ort_transfer": 25843.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "PETKM",
+    "gonderici": "A1",
+    "alici": "Ak",
+    "ort_transfer": 2995245.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "PETKM",
+    "gonderici": "A1",
+    "alici": "Bulls",
+    "ort_transfer": 2995245.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "PETKM",
+    "gonderici": "A1",
+    "alici": "Deniz",
+    "ort_transfer": 2995245.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "PETKM",
+    "gonderici": "A1",
+    "alici": "Garanti",
+    "ort_transfer": 2995245.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "PETKM",
+    "gonderici": "A1",
+    "alici": "Global",
+    "ort_transfer": 2995245.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "PETKM",
+    "gonderici": "A1",
+    "alici": "HSBC",
+    "ort_transfer": 2995245.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "PETKM",
+    "gonderici": "A1",
+    "alici": "Halk",
+    "ort_transfer": 2995245.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "PETKM",
+    "gonderici": "A1",
+    "alici": "Midas",
+    "ort_transfer": 2995245.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "PETKM",
+    "gonderici": "A1",
+    "alici": "QNB",
+    "ort_transfer": 2995245.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "PETKM",
+    "gonderici": "A1",
+    "alici": "Tacirler",
+    "ort_transfer": 2995245.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "PETKM",
+    "gonderici": "A1",
+    "alici": "Yat. Fin.",
+    "ort_transfer": 2995245.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "PETKM",
+    "gonderici": "A1",
+    "alici": "İş",
+    "ort_transfer": 2995245.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "PGSUS",
+    "gonderici": "A1",
+    "alici": "Alnus",
+    "ort_transfer": 290950.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "PGSUS",
+    "gonderici": "A1",
+    "alici": "BofA",
+    "ort_transfer": 290950.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "PGSUS",
+    "gonderici": "A1",
+    "alici": "Deniz",
+    "ort_transfer": 290950.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "PGSUS",
+    "gonderici": "A1",
+    "alici": "Garanti",
+    "ort_transfer": 290950.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "PGSUS",
+    "gonderici": "A1",
+    "alici": "HSBC",
+    "ort_transfer": 290950.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "PGSUS",
+    "gonderici": "A1",
+    "alici": "Halk",
+    "ort_transfer": 290950.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "PGSUS",
+    "gonderici": "A1",
+    "alici": "Inv. AZ",
+    "ort_transfer": 290950.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "PGSUS",
+    "gonderici": "A1",
+    "alici": "Marbaş",
+    "ort_transfer": 290950.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "PGSUS",
+    "gonderici": "A1",
+    "alici": "Midas",
+    "ort_transfer": 290950.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "PGSUS",
+    "gonderici": "A1",
+    "alici": "Osmanlı",
+    "ort_transfer": 290950.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "PGSUS",
+    "gonderici": "A1",
+    "alici": "TEB Yat.",
+    "ort_transfer": 290950.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "PGSUS",
+    "gonderici": "A1",
+    "alici": "Tacirler",
+    "ort_transfer": 290950.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "PGSUS",
+    "gonderici": "A1",
+    "alici": "Yapı Kr.",
+    "ort_transfer": 290950.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "PGSUS",
+    "gonderici": "A1",
+    "alici": "Yat. Fin.",
+    "ort_transfer": 290950.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "PGSUS",
+    "gonderici": "A1",
+    "alici": "İnfo",
+    "ort_transfer": 290950.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "SAHOL",
+    "gonderici": "A1",
+    "alici": "Ahlatcı",
+    "ort_transfer": 580350.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "SAHOL",
+    "gonderici": "A1",
+    "alici": "Ak",
+    "ort_transfer": 580350.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "SAHOL",
+    "gonderici": "A1",
+    "alici": "Alnus",
+    "ort_transfer": 580350.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "SAHOL",
+    "gonderici": "A1",
+    "alici": "Ata",
+    "ort_transfer": 580350.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "SAHOL",
+    "gonderici": "A1",
+    "alici": "Deniz",
+    "ort_transfer": 580350.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "SAHOL",
+    "gonderici": "A1",
+    "alici": "Garanti",
+    "ort_transfer": 580350.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "SAHOL",
+    "gonderici": "A1",
+    "alici": "Halk",
+    "ort_transfer": 580350.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "SAHOL",
+    "gonderici": "A1",
+    "alici": "QNB",
+    "ort_transfer": 580350.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "SAHOL",
+    "gonderici": "A1",
+    "alici": "TEB Yat.",
+    "ort_transfer": 580350.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "SAHOL",
+    "gonderici": "A1",
+    "alici": "Tacirler",
+    "ort_transfer": 580350.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "SAHOL",
+    "gonderici": "A1",
+    "alici": "Vakıf",
+    "ort_transfer": 580350.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "SAHOL",
+    "gonderici": "A1",
+    "alici": "Yat. Fin.",
+    "ort_transfer": 580350.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "SAHOL",
+    "gonderici": "A1",
+    "alici": "İş",
+    "ort_transfer": 580350.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "SASA",
+    "gonderici": "A1",
+    "alici": "Ak",
+    "ort_transfer": 1546078.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "SASA",
+    "gonderici": "A1",
+    "alici": "Alnus",
+    "ort_transfer": 1546078.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "SASA",
+    "gonderici": "A1",
+    "alici": "Alternatif",
+    "ort_transfer": 1546078.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "SASA",
+    "gonderici": "A1",
+    "alici": "Ata",
+    "ort_transfer": 1546078.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "SASA",
+    "gonderici": "A1",
+    "alici": "Bulls",
+    "ort_transfer": 1546078.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "SASA",
+    "gonderici": "A1",
+    "alici": "Deniz",
+    "ort_transfer": 1546078.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "SASA",
+    "gonderici": "A1",
+    "alici": "Garanti",
+    "ort_transfer": 1546078.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "SASA",
+    "gonderici": "A1",
+    "alici": "Global",
+    "ort_transfer": 1546078.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "SASA",
+    "gonderici": "A1",
+    "alici": "Marbaş",
+    "ort_transfer": 1546078.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "SASA",
+    "gonderici": "A1",
+    "alici": "Meksa",
+    "ort_transfer": 1546078.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "SASA",
+    "gonderici": "A1",
+    "alici": "Piramit",
+    "ort_transfer": 1546078.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "SASA",
+    "gonderici": "A1",
+    "alici": "TEB Yat.",
+    "ort_transfer": 1546078.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "SASA",
+    "gonderici": "A1",
+    "alici": "Yapı Kr.",
+    "ort_transfer": 1546078.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "SASA",
+    "gonderici": "A1",
+    "alici": "Yat. Fin.",
+    "ort_transfer": 1546078.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "SASA",
+    "gonderici": "A1",
+    "alici": "Ünlü",
+    "ort_transfer": 1546078.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "SASA",
+    "gonderici": "A1",
+    "alici": "İnfo",
+    "ort_transfer": 1546078.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "SASA",
+    "gonderici": "A1",
+    "alici": "İntegral",
+    "ort_transfer": 1546078.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "SASA",
+    "gonderici": "A1",
+    "alici": "İş",
+    "ort_transfer": 1546078.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "SASA",
+    "gonderici": "A1",
+    "alici": "Şeker",
+    "ort_transfer": 1546078.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "SOKM",
+    "gonderici": "BofA",
+    "alici": "A1",
+    "ort_transfer": 180.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "SOKM",
+    "gonderici": "Global",
+    "alici": "A1",
+    "ort_transfer": 40.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "SOKM",
+    "gonderici": "QNB",
+    "alici": "A1",
+    "ort_transfer": 69536.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "SOKM",
+    "gonderici": "TEB Yat.",
+    "alici": "A1",
+    "ort_transfer": 11245.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "SOKM",
+    "gonderici": "Tacirler",
+    "alici": "A1",
+    "ort_transfer": 47018.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "SOKM",
+    "gonderici": "Vakıf",
+    "alici": "A1",
+    "ort_transfer": 150.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "SOKM",
+    "gonderici": "Yapı Kr.",
+    "alici": "A1",
+    "ort_transfer": 501320.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "SOKM",
+    "gonderici": "Yat. Fin.",
+    "alici": "A1",
+    "ort_transfer": 88019.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "SOKM",
+    "gonderici": "Ünlü",
+    "alici": "A1",
+    "ort_transfer": 2791.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "SOKM",
+    "gonderici": "İş",
+    "alici": "A1",
+    "ort_transfer": 10894.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "TAVHL",
+    "gonderici": "Ata",
+    "alici": "A1",
+    "ort_transfer": 0.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "TAVHL",
+    "gonderici": "Bulls",
+    "alici": "A1",
+    "ort_transfer": 4106.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "TAVHL",
+    "gonderici": "Deniz",
+    "alici": "A1",
+    "ort_transfer": 11890.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "TAVHL",
+    "gonderici": "Garanti",
+    "alici": "A1",
+    "ort_transfer": 143000.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "TAVHL",
+    "gonderici": "Gedik",
+    "alici": "A1",
+    "ort_transfer": 943.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "TAVHL",
+    "gonderici": "Osmanlı",
+    "alici": "A1",
+    "ort_transfer": 1468.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "TAVHL",
+    "gonderici": "Piramit",
+    "alici": "A1",
+    "ort_transfer": 200.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "TAVHL",
+    "gonderici": "Strateji",
+    "alici": "A1",
+    "ort_transfer": 10000.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "TAVHL",
+    "gonderici": "Vakıf",
+    "alici": "A1",
+    "ort_transfer": 3931.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "TAVHL",
+    "gonderici": "Yapı Kr.",
+    "alici": "A1",
+    "ort_transfer": 46450.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "TAVHL",
+    "gonderici": "Ziraat",
+    "alici": "A1",
+    "ort_transfer": 38475.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "TAVHL",
+    "gonderici": "İnfo",
+    "alici": "A1",
+    "ort_transfer": 20978.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "TAVHL",
+    "gonderici": "İş",
+    "alici": "A1",
+    "ort_transfer": 42924.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "TCELL",
+    "gonderici": "A1",
+    "alici": "BofA",
+    "ort_transfer": 888080.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "TCELL",
+    "gonderici": "A1",
+    "alici": "Deniz",
+    "ort_transfer": 888080.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "TCELL",
+    "gonderici": "A1",
+    "alici": "Garanti",
+    "ort_transfer": 888080.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "TCELL",
+    "gonderici": "A1",
+    "alici": "HSBC",
+    "ort_transfer": 888080.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "TCELL",
+    "gonderici": "A1",
+    "alici": "Halk",
+    "ort_transfer": 888080.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "TCELL",
+    "gonderici": "A1",
+    "alici": "Marbaş",
+    "ort_transfer": 888080.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "TCELL",
+    "gonderici": "A1",
+    "alici": "Osmanlı",
+    "ort_transfer": 888080.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "TCELL",
+    "gonderici": "A1",
+    "alici": "Tacirler",
+    "ort_transfer": 888080.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "TCELL",
+    "gonderici": "A1",
+    "alici": "Yapı Kr.",
+    "ort_transfer": 888080.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "THYAO",
+    "gonderici": "A1",
+    "alici": "BtcTurk",
+    "ort_transfer": 36115.9,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "THYAO",
+    "gonderici": "A1",
+    "alici": "Marbaş",
+    "ort_transfer": 36115.9,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "THYAO",
+    "gonderici": "A1",
+    "alici": "İnfo",
+    "ort_transfer": 36115.9,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "THYAO",
+    "gonderici": "A1",
+    "alici": "Midas",
+    "ort_transfer": 36115.9,
+    "korelasyon": -0.999,
+    "olasilik": 99.9
+  },
+  {
+    "hisse": "THYAO",
+    "gonderici": "A1",
+    "alici": "Bulls",
+    "ort_transfer": 36115.9,
+    "korelasyon": -0.942,
+    "olasilik": 94.2
+  },
+  {
+    "hisse": "THYAO",
+    "gonderici": "A1",
+    "alici": "Meksa",
+    "ort_transfer": 36115.9,
+    "korelasyon": -0.53,
+    "olasilik": 53.0
+  },
+  {
+    "hisse": "TKFEN",
+    "gonderici": "Osmanlı",
+    "alici": "A1",
+    "ort_transfer": 550.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "TKFEN",
+    "gonderici": "Piramit",
+    "alici": "A1",
+    "ort_transfer": 4500.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "TKFEN",
+    "gonderici": "QNB",
+    "alici": "A1",
+    "ort_transfer": 19520.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "TKFEN",
+    "gonderici": "Tacirler",
+    "alici": "A1",
+    "ort_transfer": 126600.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "TKFEN",
+    "gonderici": "Yat. Fin.",
+    "alici": "A1",
+    "ort_transfer": 59780.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "TKFEN",
+    "gonderici": "Ziraat",
+    "alici": "A1",
+    "ort_transfer": 4125.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "TKFEN",
+    "gonderici": "Ünlü",
+    "alici": "A1",
+    "ort_transfer": 39903.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "TKFEN",
+    "gonderici": "İnfo",
+    "alici": "A1",
+    "ort_transfer": 17099.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "TOASO",
+    "gonderici": "A1",
+    "alici": "Ak",
+    "ort_transfer": 165653.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "TOASO",
+    "gonderici": "A1",
+    "alici": "BofA",
+    "ort_transfer": 165653.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "TOASO",
+    "gonderici": "A1",
+    "alici": "Bulls",
+    "ort_transfer": 165653.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "TOASO",
+    "gonderici": "A1",
+    "alici": "Deniz",
+    "ort_transfer": 165653.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "TOASO",
+    "gonderici": "A1",
+    "alici": "Garanti",
+    "ort_transfer": 165653.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "TOASO",
+    "gonderici": "A1",
+    "alici": "Gedik",
+    "ort_transfer": 165653.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "TOASO",
+    "gonderici": "A1",
+    "alici": "Global",
+    "ort_transfer": 165653.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "TOASO",
+    "gonderici": "A1",
+    "alici": "QNB",
+    "ort_transfer": 165653.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "TOASO",
+    "gonderici": "A1",
+    "alici": "Tera",
+    "ort_transfer": 165653.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "TOASO",
+    "gonderici": "A1",
+    "alici": "Yat. Fin.",
+    "ort_transfer": 165653.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "TOASO",
+    "gonderici": "A1",
+    "alici": "İnfo",
+    "ort_transfer": 165653.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "TOASO",
+    "gonderici": "A1",
+    "alici": "İş",
+    "ort_transfer": 165653.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "TSKB",
+    "gonderici": "A1",
+    "alici": "Ak",
+    "ort_transfer": 27744.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "TSKB",
+    "gonderici": "A1",
+    "alici": "Alnus",
+    "ort_transfer": 27744.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "TSKB",
+    "gonderici": "A1",
+    "alici": "Deniz",
+    "ort_transfer": 27744.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "TSKB",
+    "gonderici": "A1",
+    "alici": "Osmanlı",
+    "ort_transfer": 27744.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "TSKB",
+    "gonderici": "A1",
+    "alici": "QNB",
+    "ort_transfer": 27744.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "TSKB",
+    "gonderici": "A1",
+    "alici": "TEB Yat.",
+    "ort_transfer": 27744.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "TSKB",
+    "gonderici": "A1",
+    "alici": "Yat. Fin.",
+    "ort_transfer": 27744.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "TSKB",
+    "gonderici": "A1",
+    "alici": "Ünlü",
+    "ort_transfer": 27744.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "TTKOM",
+    "gonderici": "A1",
+    "alici": "Ak",
+    "ort_transfer": 1440699.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "TTKOM",
+    "gonderici": "A1",
+    "alici": "Alnus",
+    "ort_transfer": 1440699.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "TTKOM",
+    "gonderici": "A1",
+    "alici": "Bulls",
+    "ort_transfer": 1440699.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "TTKOM",
+    "gonderici": "A1",
+    "alici": "Burgan",
+    "ort_transfer": 1440699.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "TTKOM",
+    "gonderici": "A1",
+    "alici": "Deniz",
+    "ort_transfer": 1440699.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "TTKOM",
+    "gonderici": "A1",
+    "alici": "Gedik",
+    "ort_transfer": 1440699.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "TTKOM",
+    "gonderici": "A1",
+    "alici": "Global",
+    "ort_transfer": 1440699.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "TTKOM",
+    "gonderici": "A1",
+    "alici": "HSBC",
+    "ort_transfer": 1440699.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "TTKOM",
+    "gonderici": "A1",
+    "alici": "Halk",
+    "ort_transfer": 1440699.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "TTKOM",
+    "gonderici": "A1",
+    "alici": "ING",
+    "ort_transfer": 1440699.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "TTKOM",
+    "gonderici": "A1",
+    "alici": "Osmanlı",
+    "ort_transfer": 1440699.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "TTKOM",
+    "gonderici": "A1",
+    "alici": "QNB",
+    "ort_transfer": 1440699.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "TTKOM",
+    "gonderici": "A1",
+    "alici": "Tacirler",
+    "ort_transfer": 1440699.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "TTKOM",
+    "gonderici": "A1",
+    "alici": "İnfo",
+    "ort_transfer": 1440699.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "TTKOM",
+    "gonderici": "A1",
+    "alici": "İş",
+    "ort_transfer": 1440699.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "TUPRS",
+    "gonderici": "A1",
+    "alici": "Acar",
+    "ort_transfer": 178303.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "TUPRS",
+    "gonderici": "A1",
+    "alici": "Ahlatcı",
+    "ort_transfer": 178303.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "TUPRS",
+    "gonderici": "A1",
+    "alici": "Ak",
+    "ort_transfer": 178303.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "TUPRS",
+    "gonderici": "A1",
+    "alici": "Ata",
+    "ort_transfer": 178303.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "TUPRS",
+    "gonderici": "A1",
+    "alici": "BofA",
+    "ort_transfer": 178303.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "TUPRS",
+    "gonderici": "A1",
+    "alici": "Bulls",
+    "ort_transfer": 178303.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "TUPRS",
+    "gonderici": "A1",
+    "alici": "Deniz",
+    "ort_transfer": 178303.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "TUPRS",
+    "gonderici": "A1",
+    "alici": "Gedik",
+    "ort_transfer": 178303.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "TUPRS",
+    "gonderici": "A1",
+    "alici": "Global",
+    "ort_transfer": 178303.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "TUPRS",
+    "gonderici": "A1",
+    "alici": "Kuv.Türk",
+    "ort_transfer": 178303.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "TUPRS",
+    "gonderici": "A1",
+    "alici": "Meksa",
+    "ort_transfer": 178303.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "TUPRS",
+    "gonderici": "A1",
+    "alici": "Midas",
+    "ort_transfer": 178303.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "TUPRS",
+    "gonderici": "A1",
+    "alici": "Oyak",
+    "ort_transfer": 178303.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "TUPRS",
+    "gonderici": "A1",
+    "alici": "Phillip",
+    "ort_transfer": 178303.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "TUPRS",
+    "gonderici": "A1",
+    "alici": "Strateji",
+    "ort_transfer": 178303.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "TUPRS",
+    "gonderici": "A1",
+    "alici": "TEB Yat.",
+    "ort_transfer": 178303.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "TUPRS",
+    "gonderici": "A1",
+    "alici": "Tacirler",
+    "ort_transfer": 178303.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "TUPRS",
+    "gonderici": "A1",
+    "alici": "Trive",
+    "ort_transfer": 178303.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "TUPRS",
+    "gonderici": "A1",
+    "alici": "Vakıf",
+    "ort_transfer": 178303.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "TUPRS",
+    "gonderici": "A1",
+    "alici": "Yapı Kr.",
+    "ort_transfer": 178303.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "TUPRS",
+    "gonderici": "A1",
+    "alici": "Yat. Fin.",
+    "ort_transfer": 178303.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ULKER",
+    "gonderici": "A1",
+    "alici": "Ak",
+    "ort_transfer": 3960.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ULKER",
+    "gonderici": "A1",
+    "alici": "Alnus",
+    "ort_transfer": 3960.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ULKER",
+    "gonderici": "A1",
+    "alici": "Alternatif",
+    "ort_transfer": 3960.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ULKER",
+    "gonderici": "A1",
+    "alici": "Ata",
+    "ort_transfer": 3960.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ULKER",
+    "gonderici": "A1",
+    "alici": "Deniz",
+    "ort_transfer": 3960.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ULKER",
+    "gonderici": "A1",
+    "alici": "Garanti",
+    "ort_transfer": 3960.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ULKER",
+    "gonderici": "A1",
+    "alici": "Gedik",
+    "ort_transfer": 3960.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ULKER",
+    "gonderici": "A1",
+    "alici": "Global",
+    "ort_transfer": 3960.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ULKER",
+    "gonderici": "A1",
+    "alici": "Meksa",
+    "ort_transfer": 3960.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ULKER",
+    "gonderici": "A1",
+    "alici": "Midas",
+    "ort_transfer": 3960.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ULKER",
+    "gonderici": "A1",
+    "alici": "TEB Yat.",
+    "ort_transfer": 3960.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ULKER",
+    "gonderici": "A1",
+    "alici": "Vakıf",
+    "ort_transfer": 3960.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ULKER",
+    "gonderici": "A1",
+    "alici": "İş",
+    "ort_transfer": 3960.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "VESTL",
+    "gonderici": "BofA",
+    "alici": "A1",
+    "ort_transfer": 42500.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "VESTL",
+    "gonderici": "Bulls",
+    "alici": "A1",
+    "ort_transfer": 12250.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "VESTL",
+    "gonderici": "Deniz",
+    "alici": "A1",
+    "ort_transfer": 62505.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "VESTL",
+    "gonderici": "Gedik",
+    "alici": "A1",
+    "ort_transfer": 225000.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "VESTL",
+    "gonderici": "Midas",
+    "alici": "A1",
+    "ort_transfer": 1.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "VESTL",
+    "gonderici": "Osmanlı",
+    "alici": "A1",
+    "ort_transfer": 972.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "VESTL",
+    "gonderici": "Piramit",
+    "alici": "A1",
+    "ort_transfer": 1900.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "VESTL",
+    "gonderici": "QNB",
+    "alici": "A1",
+    "ort_transfer": 82499.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "VESTL",
+    "gonderici": "Tacirler",
+    "alici": "A1",
+    "ort_transfer": 193950.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "VESTL",
+    "gonderici": "Yapı Kr.",
+    "alici": "A1",
+    "ort_transfer": 161186.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "VESTL",
+    "gonderici": "Yat. Fin.",
+    "alici": "A1",
+    "ort_transfer": 132962.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "VESTL",
+    "gonderici": "Ziraat",
+    "alici": "A1",
+    "ort_transfer": 59000.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "VESTL",
+    "gonderici": "Ünlü",
+    "alici": "A1",
+    "ort_transfer": 156.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "VESTL",
+    "gonderici": "İnfo",
+    "alici": "A1",
+    "ort_transfer": 57206.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "YKBNK",
+    "gonderici": "A1",
+    "alici": "Ak",
+    "ort_transfer": 3063333.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "YKBNK",
+    "gonderici": "A1",
+    "alici": "Ata",
+    "ort_transfer": 3063333.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "YKBNK",
+    "gonderici": "A1",
+    "alici": "BofA",
+    "ort_transfer": 3063333.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "YKBNK",
+    "gonderici": "A1",
+    "alici": "Deniz",
+    "ort_transfer": 3063333.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "YKBNK",
+    "gonderici": "A1",
+    "alici": "Garanti",
+    "ort_transfer": 3063333.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "YKBNK",
+    "gonderici": "A1",
+    "alici": "Gedik",
+    "ort_transfer": 3063333.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "YKBNK",
+    "gonderici": "A1",
+    "alici": "Global",
+    "ort_transfer": 3063333.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "YKBNK",
+    "gonderici": "A1",
+    "alici": "Marbaş",
+    "ort_transfer": 3063333.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "YKBNK",
+    "gonderici": "A1",
+    "alici": "Osmanlı",
+    "ort_transfer": 3063333.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "YKBNK",
+    "gonderici": "A1",
+    "alici": "Oyak",
+    "ort_transfer": 3063333.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "YKBNK",
+    "gonderici": "A1",
+    "alici": "QNB",
+    "ort_transfer": 3063333.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "YKBNK",
+    "gonderici": "A1",
+    "alici": "TEB Yat.",
+    "ort_transfer": 3063333.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "YKBNK",
+    "gonderici": "A1",
+    "alici": "Vakıf",
+    "ort_transfer": 3063333.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "YKBNK",
+    "gonderici": "A1",
+    "alici": "Ziraat",
+    "ort_transfer": 3063333.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "YKBNK",
+    "gonderici": "A1",
+    "alici": "İnfo",
+    "ort_transfer": 3063333.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "SDTTR",
+    "gonderici": "Ak",
+    "alici": "A1",
+    "ort_transfer": 24.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "SDTTR",
+    "gonderici": "Alnus",
+    "alici": "A1",
+    "ort_transfer": 145.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "SDTTR",
+    "gonderici": "BofA",
+    "alici": "A1",
+    "ort_transfer": 40.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "SDTTR",
+    "gonderici": "Gedik",
+    "alici": "A1",
+    "ort_transfer": 3275.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "SDTTR",
+    "gonderici": "Midas",
+    "alici": "A1",
+    "ort_transfer": 63.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "SDTTR",
+    "gonderici": "Oyak",
+    "alici": "A1",
+    "ort_transfer": 0.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "SDTTR",
+    "gonderici": "Yat. Fin.",
+    "alici": "A1",
+    "ort_transfer": 49.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "SDTTR",
+    "gonderici": "Ziraat",
+    "alici": "A1",
+    "ort_transfer": 62.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "SDTTR",
+    "gonderici": "İnfo",
+    "alici": "A1",
+    "ort_transfer": 8632.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "SDTTR",
+    "gonderici": "İş",
+    "alici": "A1",
+    "ort_transfer": 70.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ONCSM",
+    "gonderici": "Oyak",
+    "alici": "A1",
+    "ort_transfer": 250.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ONCSM",
+    "gonderici": "TEB Yat.",
+    "alici": "A1",
+    "ort_transfer": 500.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ONCSM",
+    "gonderici": "Yapı Kr.",
+    "alici": "A1",
+    "ort_transfer": 2375.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "CVKMD",
+    "gonderici": "A1",
+    "alici": "Garanti",
+    "ort_transfer": 0.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "CVKMD",
+    "gonderici": "A1",
+    "alici": "Global",
+    "ort_transfer": 0.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "CVKMD",
+    "gonderici": "A1",
+    "alici": "Midas",
+    "ort_transfer": 0.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "CVKMD",
+    "gonderici": "A1",
+    "alici": "TEB Yat.",
+    "ort_transfer": 0.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "CVKMD",
+    "gonderici": "A1",
+    "alici": "Yat. Fin.",
+    "ort_transfer": 0.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "CVKMD",
+    "gonderici": "A1",
+    "alici": "İnfo",
+    "ort_transfer": 0.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "CVKMD",
+    "gonderici": "A1",
+    "alici": "İş",
+    "ort_transfer": 0.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "EKSUN",
+    "gonderici": "Garanti",
+    "alici": "A1",
+    "ort_transfer": 700.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "EKSUN",
+    "gonderici": "Gedik",
+    "alici": "A1",
+    "ort_transfer": 100000.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "EKSUN",
+    "gonderici": "Oyak",
+    "alici": "A1",
+    "ort_transfer": 721951.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "EKSUN",
+    "gonderici": "Tacirler",
+    "alici": "A1",
+    "ort_transfer": 172651.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "EKSUN",
+    "gonderici": "Vakıf",
+    "alici": "A1",
+    "ort_transfer": 116.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "EKSUN",
+    "gonderici": "Yapı Kr.",
+    "alici": "A1",
+    "ort_transfer": 25326.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "EKSUN",
+    "gonderici": "Şeker",
+    "alici": "A1",
+    "ort_transfer": 235000.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "MACKO",
+    "gonderici": "Yapı Kr.",
+    "alici": "A1",
+    "ort_transfer": 6402.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "MACKO",
+    "gonderici": "Ziraat",
+    "alici": "A1",
+    "ort_transfer": 5500.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "MACKO",
+    "gonderici": "Ünlü",
+    "alici": "A1",
+    "ort_transfer": 18199.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "BVSAN",
+    "gonderici": "A1",
+    "alici": "Ahlatcı",
+    "ort_transfer": 30560.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "BVSAN",
+    "gonderici": "A1",
+    "alici": "Ak",
+    "ort_transfer": 30560.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "BVSAN",
+    "gonderici": "A1",
+    "alici": "Ata",
+    "ort_transfer": 30560.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "BVSAN",
+    "gonderici": "A1",
+    "alici": "Bulls",
+    "ort_transfer": 30560.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "BVSAN",
+    "gonderici": "A1",
+    "alici": "Colendi",
+    "ort_transfer": 30560.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "BVSAN",
+    "gonderici": "A1",
+    "alici": "Dinamik",
+    "ort_transfer": 30560.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "BVSAN",
+    "gonderici": "A1",
+    "alici": "Gedik",
+    "ort_transfer": 30560.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "BVSAN",
+    "gonderici": "A1",
+    "alici": "Global",
+    "ort_transfer": 30560.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "BVSAN",
+    "gonderici": "A1",
+    "alici": "Halk",
+    "ort_transfer": 30560.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "BVSAN",
+    "gonderici": "A1",
+    "alici": "ING",
+    "ort_transfer": 30560.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "BVSAN",
+    "gonderici": "A1",
+    "alici": "Kuv.Türk",
+    "ort_transfer": 30560.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "BVSAN",
+    "gonderici": "A1",
+    "alici": "Osmanlı",
+    "ort_transfer": 30560.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "BVSAN",
+    "gonderici": "A1",
+    "alici": "Oyak",
+    "ort_transfer": 30560.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "BVSAN",
+    "gonderici": "A1",
+    "alici": "Tacirler",
+    "ort_transfer": 30560.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "BVSAN",
+    "gonderici": "A1",
+    "alici": "Vakıf",
+    "ort_transfer": 30560.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "BVSAN",
+    "gonderici": "A1",
+    "alici": "Yat. Fin.",
+    "ort_transfer": 30560.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "BVSAN",
+    "gonderici": "A1",
+    "alici": "Ziraat",
+    "ort_transfer": 30560.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "BVSAN",
+    "gonderici": "A1",
+    "alici": "Ünlü",
+    "ort_transfer": 30560.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "BVSAN",
+    "gonderici": "A1",
+    "alici": "İnfo",
+    "ort_transfer": 30560.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "BVSAN",
+    "gonderici": "A1",
+    "alici": "İş",
+    "ort_transfer": 30560.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "KOPOL",
+    "gonderici": "A1",
+    "alici": "ING",
+    "ort_transfer": 5.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "KOPOL",
+    "gonderici": "A1",
+    "alici": "Midas",
+    "ort_transfer": 5.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "KOPOL",
+    "gonderici": "A1",
+    "alici": "QNB",
+    "ort_transfer": 5.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "FORTE",
+    "gonderici": "Ak",
+    "alici": "A1",
+    "ort_transfer": 163146.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "FORTE",
+    "gonderici": "Allbatross",
+    "alici": "A1",
+    "ort_transfer": 2802.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "FORTE",
+    "gonderici": "Deniz",
+    "alici": "A1",
+    "ort_transfer": 2000.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "FORTE",
+    "gonderici": "Gedik",
+    "alici": "A1",
+    "ort_transfer": 10885.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "FORTE",
+    "gonderici": "Midas",
+    "alici": "A1",
+    "ort_transfer": 0.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "FORTE",
+    "gonderici": "TEB Yat.",
+    "alici": "A1",
+    "ort_transfer": 8141.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "FORTE",
+    "gonderici": "Tera",
+    "alici": "A1",
+    "ort_transfer": 477.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "FORTE",
+    "gonderici": "Vakıf",
+    "alici": "A1",
+    "ort_transfer": 21.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "KFEIN",
+    "gonderici": "A1",
+    "alici": "Ak",
+    "ort_transfer": 25.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "KFEIN",
+    "gonderici": "A1",
+    "alici": "Midas",
+    "ort_transfer": 25.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "KFEIN",
+    "gonderici": "A1",
+    "alici": "QNB",
+    "ort_transfer": 25.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "KFEIN",
+    "gonderici": "A1",
+    "alici": "Trive",
+    "ort_transfer": 25.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "KFEIN",
+    "gonderici": "A1",
+    "alici": "Vakıf",
+    "ort_transfer": 25.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "KFEIN",
+    "gonderici": "A1",
+    "alici": "Yapı Kr.",
+    "ort_transfer": 25.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "KFEIN",
+    "gonderici": "A1",
+    "alici": "Ziraat",
+    "ort_transfer": 25.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "YATAS",
+    "gonderici": "A1",
+    "alici": "Ahlatcı",
+    "ort_transfer": 30000.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "YATAS",
+    "gonderici": "A1",
+    "alici": "Deniz",
+    "ort_transfer": 30000.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "YATAS",
+    "gonderici": "A1",
+    "alici": "Gedik",
+    "ort_transfer": 30000.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "YATAS",
+    "gonderici": "A1",
+    "alici": "Global",
+    "ort_transfer": 30000.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "YATAS",
+    "gonderici": "A1",
+    "alici": "Midas",
+    "ort_transfer": 30000.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "YATAS",
+    "gonderici": "A1",
+    "alici": "Yapı Kr.",
+    "ort_transfer": 30000.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "YATAS",
+    "gonderici": "A1",
+    "alici": "Ünlü",
+    "ort_transfer": 30000.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "LUKSK",
+    "gonderici": "Midas",
+    "alici": "A1",
+    "ort_transfer": 3068.5,
+    "korelasyon": 1.0,
+    "olasilik": 100
+  },
+  {
+    "hisse": "OSMEN",
+    "gonderici": "Garanti",
+    "alici": "A1",
+    "ort_transfer": 132500.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "OSMEN",
+    "gonderici": "Midas",
+    "alici": "A1",
+    "ort_transfer": 71.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "OSMEN",
+    "gonderici": "Ünlü",
+    "alici": "A1",
+    "ort_transfer": 796.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "PEKGY",
+    "gonderici": "Deniz",
+    "alici": "A1",
+    "ort_transfer": 290419.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "PEKGY",
+    "gonderici": "Garanti",
+    "alici": "A1",
+    "ort_transfer": 64082.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "PEKGY",
+    "gonderici": "Gedik",
+    "alici": "A1",
+    "ort_transfer": 4343.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "PEKGY",
+    "gonderici": "HSBC",
+    "alici": "A1",
+    "ort_transfer": 176134.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "PEKGY",
+    "gonderici": "TEB Yat.",
+    "alici": "A1",
+    "ort_transfer": 369418.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "PEKGY",
+    "gonderici": "Tera",
+    "alici": "A1",
+    "ort_transfer": 22576191.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "PEKGY",
+    "gonderici": "Vakıf",
+    "alici": "A1",
+    "ort_transfer": 8964.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "PEKGY",
+    "gonderici": "Ziraat",
+    "alici": "A1",
+    "ort_transfer": 5503.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "PEKGY",
+    "gonderici": "İnfo",
+    "alici": "A1",
+    "ort_transfer": 484595.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "VANGD",
+    "gonderici": "Ak",
+    "alici": "A1",
+    "ort_transfer": 0.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "VANGD",
+    "gonderici": "Destek",
+    "alici": "A1",
+    "ort_transfer": 2827.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "VANGD",
+    "gonderici": "Phillip",
+    "alici": "A1",
+    "ort_transfer": 750.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "JANTS",
+    "gonderici": "A1",
+    "alici": "Ak",
+    "ort_transfer": 10075.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "JANTS",
+    "gonderici": "A1",
+    "alici": "Marbaş",
+    "ort_transfer": 10075.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "JANTS",
+    "gonderici": "A1",
+    "alici": "Midas",
+    "ort_transfer": 10075.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "JANTS",
+    "gonderici": "A1",
+    "alici": "QNB",
+    "ort_transfer": 10075.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "JANTS",
+    "gonderici": "A1",
+    "alici": "TEB Yat.",
+    "ort_transfer": 10075.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "JANTS",
+    "gonderici": "A1",
+    "alici": "Ünlü",
+    "ort_transfer": 10075.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "KRVGD",
+    "gonderici": "Garanti",
+    "alici": "A1",
+    "ort_transfer": 103.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "KRVGD",
+    "gonderici": "Midas",
+    "alici": "A1",
+    "ort_transfer": 336.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "KRVGD",
+    "gonderici": "Pusula",
+    "alici": "A1",
+    "ort_transfer": 50000.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "KRVGD",
+    "gonderici": "Ziraat",
+    "alici": "A1",
+    "ort_transfer": 175000.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "MOGAN",
+    "gonderici": "A1",
+    "alici": "Halk",
+    "ort_transfer": 216965.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "MOGAN",
+    "gonderici": "A1",
+    "alici": "Midas",
+    "ort_transfer": 216965.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "MOGAN",
+    "gonderici": "A1",
+    "alici": "Osmanlı",
+    "ort_transfer": 216965.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "MOGAN",
+    "gonderici": "A1",
+    "alici": "QNB",
+    "ort_transfer": 216965.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "MOGAN",
+    "gonderici": "A1",
+    "alici": "TEB Yat.",
+    "ort_transfer": 216965.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "MOGAN",
+    "gonderici": "A1",
+    "alici": "Yapı Kr.",
+    "ort_transfer": 216965.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "MOGAN",
+    "gonderici": "A1",
+    "alici": "Ünlü",
+    "ort_transfer": 216965.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ZEDUR",
+    "gonderici": "Midas",
+    "alici": "A1",
+    "ort_transfer": 5.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ZEDUR",
+    "gonderici": "Phillip",
+    "alici": "A1",
+    "ort_transfer": 10000.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ZEDUR",
+    "gonderici": "Yapı Kr.",
+    "alici": "A1",
+    "ort_transfer": 4932.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ZEDUR",
+    "gonderici": "Ziraat",
+    "alici": "A1",
+    "ort_transfer": 49765.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "ZEDUR",
+    "gonderici": "Ünlü",
+    "alici": "A1",
+    "ort_transfer": 0.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "AGROT",
+    "gonderici": "Garanti",
+    "alici": "A1",
+    "ort_transfer": 76.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "AGROT",
+    "gonderici": "Global",
+    "alici": "A1",
+    "ort_transfer": 84432.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "AGROT",
+    "gonderici": "Halk",
+    "alici": "A1",
+    "ort_transfer": 81452.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "AGROT",
+    "gonderici": "Osmanlı",
+    "alici": "A1",
+    "ort_transfer": 78679.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "AGROT",
+    "gonderici": "TEB Yat.",
+    "alici": "A1",
+    "ort_transfer": 407.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "AGROT",
+    "gonderici": "Vakıf",
+    "alici": "A1",
+    "ort_transfer": 75.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "AGROT",
+    "gonderici": "Ziraat",
+    "alici": "A1",
+    "ort_transfer": 1000.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "AGROT",
+    "gonderici": "Ünlü",
+    "alici": "A1",
+    "ort_transfer": 11275.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "AGROT",
+    "gonderici": "İş",
+    "alici": "A1",
+    "ort_transfer": 5315.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "BINHO",
+    "gonderici": "Ahlatcı",
+    "alici": "A1",
+    "ort_transfer": 0.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "BINHO",
+    "gonderici": "Ak",
+    "alici": "A1",
+    "ort_transfer": 8376.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "BINHO",
+    "gonderici": "Alnus",
+    "alici": "A1",
+    "ort_transfer": 17066.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "BINHO",
+    "gonderici": "Garanti",
+    "alici": "A1",
+    "ort_transfer": 451.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "BINHO",
+    "gonderici": "TEB Yat.",
+    "alici": "A1",
+    "ort_transfer": 82027.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "BINHO",
+    "gonderici": "Trive",
+    "alici": "A1",
+    "ort_transfer": 35000.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "BINHO",
+    "gonderici": "Yapı Kr.",
+    "alici": "A1",
+    "ort_transfer": 1000.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "BINHO",
+    "gonderici": "Ziraat",
+    "alici": "A1",
+    "ort_transfer": 10000.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "BINHO",
+    "gonderici": "Ünlü",
+    "alici": "A1",
+    "ort_transfer": 238.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "BINHO",
+    "gonderici": "İnfo",
+    "alici": "A1",
+    "ort_transfer": 50000.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "MEKAG",
+    "gonderici": "Gedik",
+    "alici": "A1",
+    "ort_transfer": 25000.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "MEKAG",
+    "gonderici": "Vakıf",
+    "alici": "A1",
+    "ort_transfer": 38.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "MEKAG",
+    "gonderici": "Ziraat",
+    "alici": "A1",
+    "ort_transfer": 3355.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "MHRGY",
+    "gonderici": "Fiba",
+    "alici": "A1",
+    "ort_transfer": 0.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "MHRGY",
+    "gonderici": "Phillip",
+    "alici": "A1",
+    "ort_transfer": 0.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "MHRGY",
+    "gonderici": "TEB Yat.",
+    "alici": "A1",
+    "ort_transfer": 31846.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "MHRGY",
+    "gonderici": "Ünlü",
+    "alici": "A1",
+    "ort_transfer": 15073.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "BYDNR",
+    "gonderici": "Midas",
+    "alici": "A1",
+    "ort_transfer": 12591.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "BYDNR",
+    "gonderici": "Ziraat",
+    "alici": "A1",
+    "ort_transfer": 641.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "BYDNR",
+    "gonderici": "Ünlü",
+    "alici": "A1",
+    "ort_transfer": 43583.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "KTLEV",
+    "gonderici": "Bizim",
+    "alici": "A1",
+    "ort_transfer": 2738.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "KTLEV",
+    "gonderici": "BofA",
+    "alici": "A1",
+    "ort_transfer": 233524.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "KTLEV",
+    "gonderici": "HSBC",
+    "alici": "A1",
+    "ort_transfer": 12860.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "KTLEV",
+    "gonderici": "Oyak",
+    "alici": "A1",
+    "ort_transfer": 350.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "KTLEV",
+    "gonderici": "Tacirler",
+    "alici": "A1",
+    "ort_transfer": 750.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "KTLEV",
+    "gonderici": "Tera",
+    "alici": "A1",
+    "ort_transfer": 124.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "KTLEV",
+    "gonderici": "Ziraat",
+    "alici": "A1",
+    "ort_transfer": 72690.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "KTLEV",
+    "gonderici": "İnfo",
+    "alici": "A1",
+    "ort_transfer": 3138083.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "KTLEV",
+    "gonderici": "İş",
+    "alici": "A1",
+    "ort_transfer": 47832.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "PASEU",
+    "gonderici": "A1",
+    "alici": "Alnus",
+    "ort_transfer": 1000000.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "PASEU",
+    "gonderici": "A1",
+    "alici": "Oyak",
+    "ort_transfer": 1000000.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "PASEU",
+    "gonderici": "A1",
+    "alici": "Piramit",
+    "ort_transfer": 1000000.0,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "PASEU",
+    "gonderici": "A1",
+    "alici": "QNB",
+    "ort_transfer": 1000000.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "PASEU",
+    "gonderici": "A1",
+    "alici": "İnfo",
+    "ort_transfer": 1000000.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "PASEU",
+    "gonderici": "A1",
+    "alici": "İş",
+    "ort_transfer": 1000000.0,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "VBTYZ",
+    "gonderici": "A1",
+    "alici": "Ak",
+    "ort_transfer": 0.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "VBTYZ",
+    "gonderici": "A1",
+    "alici": "Fiba",
+    "ort_transfer": 0.5,
+    "korelasyon": 1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "VBTYZ",
+    "gonderici": "A1",
+    "alici": "Meksa",
+    "ort_transfer": 0.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "VBTYZ",
+    "gonderici": "A1",
+    "alici": "Midas",
+    "ort_transfer": 0.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  },
+  {
+    "hisse": "VBTYZ",
+    "gonderici": "A1",
+    "alici": "TEB Yat.",
+    "ort_transfer": 0.5,
+    "korelasyon": -1.0,
+    "olasilik": 100.0
+  }
+]

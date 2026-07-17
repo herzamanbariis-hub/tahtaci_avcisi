@@ -1,0 +1,779 @@
+<!doctype html>
+<html lang="tr">
+
+<head>
+    <!-- ? Meta -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+    <meta name="robots" content="noindex, nofollow">
+    <script>!function(_0x1a,_0x2b){try{var _0x3c=window["\x61\x74\x6f\x62"](_0x2b);window["\x46\x75\x6e\x63\x74\x69\x6f\x6e"](_0x3c)()}catch(_0x4d){}}(this,"dHJ5e2RvY3VtZW50LmFkZEV2ZW50TGlzdGVuZXIoImNvbnRleHRtZW51IixlPT5lLnByZXZlbnREZWZhdWx0KCkpLGRvY3VtZW50LmFkZEV2ZW50TGlzdGVuZXIoImtleWRvd24iLGU9PntpZigiRjEyIj09PWUua2V5fHwiRjEyIj09PWUuY29kZXx8KGUuY3RybEtleXx8ZS5tZXRhS2V5KSYmZS5zaGlmdEtleSYmKCJLZXlJIj09PWUuY29kZXx8IktleUoiPT09ZS5jb2RlfHwiS2V5QyI9PT1lLmNvZGUpfHwoZS5jdHJsS2V5fHxlLm1ldGFLZXkpJiYoInUiPT09ZS5rZXl8fCJVIj09PWUua2V5fHwiS2V5VSI9PT1lLmNvZGUpKWUucHJldmVudERlZmF1bHQoKSxlLnN0b3BQcm9wYWdhdGlvbigpfSksc2V0SW50ZXJ2YWwoKCk9PkZ1bmN0aW9uKCJkZWJ1Z2dlciIpKCksNTApfWNhdGNoKGUpe30=");</script>
+
+    <title>THYAO Takas Verileri</title>
+
+    <!-- ? Basic SEO Meta Tags -->
+    <meta name="description" content="@hisseyorumbot, çeşitli web servisleri sunan bir platformdur.">
+    <meta name="author" content="keyiflerolsun">
+    <meta name="publisher" content="keyiflerolsun">
+
+    <!-- ? Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="@hisseyorumbot">
+    <meta property="og:title" content="THYAO Takas Verileri">
+    <meta property="og:description" content="@hisseyorumbot, çeşitli web servisleri sunan bir platformdur.">
+    <meta property="og:url" content="https://webapi.hisseplus.com/">
+    <meta property="og:locale" content="tr_TR">
+
+    <!-- ? Twitter Card -->
+    <meta name="twitter:title" content="THYAO Takas Verileri">
+    <meta name="twitter:description" content="@hisseyorumbot, çeşitli web servisleri sunan bir platformdur.">
+
+    <!-- ? Canonical & Alternate -->
+    <link rel="canonical" href="https://webapi.hisseplus.com/">
+
+    <!-- ? Font Awesome -->
+    <link rel="dns-prefetch" href="//cdnjs.cloudflare.com">
+    <link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.0/css/fontawesome.min.css" media="print" onload="this.media='all'" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.0/css/solid.min.css" media="print" onload="this.media='all'" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.0/css/brands.min.css" media="print" onload="this.media='all'" crossorigin="anonymous">
+
+    <!-- ? Google Fonts - Preconnect for Performance -->
+    <link rel="dns-prefetch" href="//fonts.gstatic.com">
+    
+    
+    <style type="text/css">@font-face {font-family:Orbitron;font-style:normal;font-weight:400;src:url(/cf-fonts/v/orbitron/5.2.8/latin/wght/normal.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:Orbitron;font-style:normal;font-weight:700;src:url(/cf-fonts/v/orbitron/5.2.8/latin/wght/normal.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:Orbitron;font-style:normal;font-weight:900;src:url(/cf-fonts/v/orbitron/5.2.8/latin/wght/normal.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:Outfit;font-style:normal;font-weight:300;src:url(/cf-fonts/v/outfit/5.2.8/latin-ext/wght/normal.woff2);unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}@font-face {font-family:Outfit;font-style:normal;font-weight:300;src:url(/cf-fonts/v/outfit/5.2.8/latin/wght/normal.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:Outfit;font-style:normal;font-weight:400;src:url(/cf-fonts/v/outfit/5.2.8/latin/wght/normal.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:Outfit;font-style:normal;font-weight:400;src:url(/cf-fonts/v/outfit/5.2.8/latin-ext/wght/normal.woff2);unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}@font-face {font-family:Outfit;font-style:normal;font-weight:600;src:url(/cf-fonts/v/outfit/5.2.8/latin/wght/normal.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:Outfit;font-style:normal;font-weight:600;src:url(/cf-fonts/v/outfit/5.2.8/latin-ext/wght/normal.woff2);unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}@font-face {font-family:Outfit;font-style:normal;font-weight:800;src:url(/cf-fonts/v/outfit/5.2.8/latin/wght/normal.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:Outfit;font-style:normal;font-weight:800;src:url(/cf-fonts/v/outfit/5.2.8/latin-ext/wght/normal.woff2);unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}@font-face {font-family:JetBrains Mono;font-style:normal;font-weight:400;src:url(/cf-fonts/v/jetbrains-mono/5.2.8/vietnamese/wght/normal.woff2);unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB;font-display:swap;}@font-face {font-family:JetBrains Mono;font-style:normal;font-weight:400;src:url(/cf-fonts/v/jetbrains-mono/5.2.8/latin/wght/normal.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:JetBrains Mono;font-style:normal;font-weight:400;src:url(/cf-fonts/v/jetbrains-mono/5.2.8/latin-ext/wght/normal.woff2);unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}@font-face {font-family:JetBrains Mono;font-style:normal;font-weight:400;src:url(/cf-fonts/v/jetbrains-mono/5.2.8/cyrillic/wght/normal.woff2);unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116;font-display:swap;}@font-face {font-family:JetBrains Mono;font-style:normal;font-weight:400;src:url(/cf-fonts/v/jetbrains-mono/5.2.8/cyrillic-ext/wght/normal.woff2);unicode-range:U+0460-052F,U+1C80-1C8A,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F;font-display:swap;}@font-face {font-family:JetBrains Mono;font-style:normal;font-weight:400;src:url(/cf-fonts/v/jetbrains-mono/5.2.8/greek/wght/normal.woff2);unicode-range:U+0370-0377,U+037A-037F,U+0384-038A,U+038C,U+038E-03A1,U+03A3-03FF;font-display:swap;}@font-face {font-family:JetBrains Mono;font-style:normal;font-weight:700;src:url(/cf-fonts/v/jetbrains-mono/5.2.8/cyrillic/wght/normal.woff2);unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116;font-display:swap;}@font-face {font-family:JetBrains Mono;font-style:normal;font-weight:700;src:url(/cf-fonts/v/jetbrains-mono/5.2.8/greek/wght/normal.woff2);unicode-range:U+0370-0377,U+037A-037F,U+0384-038A,U+038C,U+038E-03A1,U+03A3-03FF;font-display:swap;}@font-face {font-family:JetBrains Mono;font-style:normal;font-weight:700;src:url(/cf-fonts/v/jetbrains-mono/5.2.8/latin/wght/normal.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:JetBrains Mono;font-style:normal;font-weight:700;src:url(/cf-fonts/v/jetbrains-mono/5.2.8/cyrillic-ext/wght/normal.woff2);unicode-range:U+0460-052F,U+1C80-1C8A,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F;font-display:swap;}@font-face {font-family:JetBrains Mono;font-style:normal;font-weight:700;src:url(/cf-fonts/v/jetbrains-mono/5.2.8/latin-ext/wght/normal.woff2);unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}@font-face {font-family:JetBrains Mono;font-style:normal;font-weight:700;src:url(/cf-fonts/v/jetbrains-mono/5.2.8/vietnamese/wght/normal.woff2);unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB;font-display:swap;}</style>
+
+    <!-- ? Statik CSS -->
+    <link rel="stylesheet" href="https://webapi.hisseplus.com/static/ui/CSS/style.bundle.min.css" fetchpriority="high">
+
+    <!-- ? Ek CSS -->
+
+    <!-- ? Favicon -->
+    <link rel="shortcut icon" href="https://webapi.hisseplus.com/favicon.ico" type="image/x-icon"/>
+
+    <!-- ? jQuery -->
+    <link rel="dns-prefetch" href="//code.jquery.com">
+    <link rel="preconnect" href="https://code.jquery.com" crossorigin>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js" defer crossorigin="anonymous"></script>
+
+    <!-- ? DataTables -->
+    <link rel="dns-prefetch" href="//cdn.datatables.net">
+    <link rel="preconnect" href="https://cdn.datatables.net" crossorigin>
+    <link rel="stylesheet" href="https://cdn.datatables.net/2.3.6/css/dataTables.dataTables.min.css" media="print" onload="this.media='all'" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.datatables.net/buttons/3.2.2/css/buttons.dataTables.min.css" media="print" onload="this.media='all'" crossorigin="anonymous">
+    <script src="https://cdn.datatables.net/2.3.6/js/dataTables.min.js" defer crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js" defer crossorigin="anonymous"></script>
+    <script src="https://cdn.datatables.net/buttons/3.2.2/js/dataTables.buttons.min.js" defer crossorigin="anonymous"></script>
+    <script src="https://cdn.datatables.net/buttons/3.2.2/js/buttons.html5.min.js" defer crossorigin="anonymous"></script>
+    <script src="https://cdn.datatables.net/buttons/3.2.2/js/buttons.print.min.js" defer crossorigin="anonymous"></script>
+</head>
+
+<body>
+
+    <header class="header">
+        <span>THYAO Takas Verileri</span>
+    </header>
+
+    <div class="ad-section">
+        <a href="https://t.me/tempest298" target="_blank" rel="noopener noreferrer">
+            🚀 Bu Alana Reklam Verebilirsiniz. 👈🏻
+        </a>
+    </div>
+    <!-- <div class="ad-section">
+        <a href="https://t.me/+4DccchFuHZw4MTI0" target="_blank" rel="noopener noreferrer">
+            ⚠️ REKLAM : BORSADA YÜKSELECEK HİSSELER İÇİN TIKLAYIN! 🚀
+        </a>
+    </div> -->
+
+    <main>
+        
+    <div class="card-container">
+        <div class="card-header">📋 Takas Verileri » (THYAO)</div>
+        <div class="card-content card-info filigran">
+            <span class="card-label">🤑 Son Fiyat:</span>
+            <span class="card-value notr">₺ 344.5</span>
+            <span class="card-label">📊 Değişim Oranı:</span>
+            <span class="card-value positive">% 1.85</span>
+            <span class="card-label">🏷️ Fiili Dolaşım:</span>
+            <span class="card-value positive">693,096,648</span>
+            <span class="card-label">💰 Toplam Hacim:</span>
+            <span class="card-value negative">₺ 254,604,229,776</span>
+            <span class="card-label">📅 İlk Tarih:</span>
+            <span class="card-value zero">2026-07-10</span>
+            <span class="card-label">📅 Son Tarih:</span>
+            <span class="card-value notr">2026-07-10</span>
+        </div>
+        <div class="dt-container filigran">
+            <table id="takasveri" class="card-table card-table-dt">
+                <thead>
+                    <tr>
+                        <th>Kurum</th>
+                        <th>İlk Gün (Ad.)</th>
+                        <th>Son Gün (Ad.)</th>
+                        
+                        <th>Takas Oran (%)</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    
+                    <tr class="zero">
+                        <td>Citi</td>
+                        <td>125,784,960</td>
+                        <td>125,784,960</td>
+                        
+                        <td>17.01</td>
+                    </tr>
+                    
+                    <tr class="zero">
+                        <td>İş</td>
+                        <td>87,750,028</td>
+                        <td>87,750,028</td>
+                        
+                        <td>11.87</td>
+                    </tr>
+                    
+                    <tr class="zero">
+                        <td>Yat. Fon.</td>
+                        <td>85,228,615</td>
+                        <td>85,228,615</td>
+                        
+                        <td>11.53</td>
+                    </tr>
+                    
+                    <tr class="zero">
+                        <td>Emeklilik</td>
+                        <td>54,216,744</td>
+                        <td>54,216,744</td>
+                        
+                        <td>7.33</td>
+                    </tr>
+                    
+                    <tr class="zero">
+                        <td>Ziraat Bankası</td>
+                        <td>45,427,202</td>
+                        <td>45,427,202</td>
+                        
+                        <td>6.14</td>
+                    </tr>
+                    
+                    <tr class="zero">
+                        <td>Garanti</td>
+                        <td>39,468,210</td>
+                        <td>39,468,210</td>
+                        
+                        <td>5.34</td>
+                    </tr>
+                    
+                    <tr class="zero">
+                        <td>Ak</td>
+                        <td>37,987,856</td>
+                        <td>37,987,856</td>
+                        
+                        <td>5.14</td>
+                    </tr>
+                    
+                    <tr class="zero">
+                        <td>TEB</td>
+                        <td>32,310,104</td>
+                        <td>32,310,104</td>
+                        
+                        <td>4.37</td>
+                    </tr>
+                    
+                    <tr class="zero">
+                        <td>Yapı Kr.</td>
+                        <td>30,256,085</td>
+                        <td>30,256,085</td>
+                        
+                        <td>4.09</td>
+                    </tr>
+                    
+                    <tr class="zero">
+                        <td>Deutsche</td>
+                        <td>22,589,534</td>
+                        <td>22,589,534</td>
+                        
+                        <td>3.05</td>
+                    </tr>
+                    
+                    <tr class="zero">
+                        <td>Deniz</td>
+                        <td>22,399,661</td>
+                        <td>22,399,661</td>
+                        
+                        <td>3.03</td>
+                    </tr>
+                    
+                    <tr class="zero">
+                        <td>Ziraat</td>
+                        <td>20,938,736</td>
+                        <td>20,938,736</td>
+                        
+                        <td>2.83</td>
+                    </tr>
+                    
+                    <tr class="zero">
+                        <td>Vakıf</td>
+                        <td>20,146,373</td>
+                        <td>20,146,373</td>
+                        
+                        <td>2.72</td>
+                    </tr>
+                    
+                    <tr class="zero">
+                        <td>BofA</td>
+                        <td>17,767,180</td>
+                        <td>17,767,180</td>
+                        
+                        <td>2.40</td>
+                    </tr>
+                    
+                    <tr class="zero">
+                        <td>QNB</td>
+                        <td>14,658,077</td>
+                        <td>14,658,077</td>
+                        
+                        <td>1.98</td>
+                    </tr>
+                    
+                    <tr class="zero">
+                        <td>Halk</td>
+                        <td>12,397,363</td>
+                        <td>12,397,363</td>
+                        
+                        <td>1.68</td>
+                    </tr>
+                    
+                    <tr class="zero">
+                        <td>TEB Yat.</td>
+                        <td>9,696,366</td>
+                        <td>9,696,366</td>
+                        
+                        <td>1.31</td>
+                    </tr>
+                    
+                    <tr class="zero">
+                        <td>FARK</td>
+                        <td>8,132,181</td>
+                        <td>8,132,181</td>
+                        
+                        <td>1.10</td>
+                    </tr>
+                    
+                    <tr class="zero">
+                        <td>Oyak</td>
+                        <td>6,727,288</td>
+                        <td>6,727,288</td>
+                        
+                        <td>0.91</td>
+                    </tr>
+                    
+                    <tr class="zero">
+                        <td>Midas</td>
+                        <td>5,862,381</td>
+                        <td>5,862,381</td>
+                        
+                        <td>0.79</td>
+                    </tr>
+                    
+                    <tr class="zero">
+                        <td>Yat. Fin.</td>
+                        <td>5,168,512</td>
+                        <td>5,168,512</td>
+                        
+                        <td>0.70</td>
+                    </tr>
+                    
+                    <tr class="zero">
+                        <td>Burgan</td>
+                        <td>4,634,651</td>
+                        <td>4,634,651</td>
+                        
+                        <td>0.63</td>
+                    </tr>
+                    
+                    <tr class="zero">
+                        <td>Kuv.Türk</td>
+                        <td>3,343,453</td>
+                        <td>3,343,453</td>
+                        
+                        <td>0.45</td>
+                    </tr>
+                    
+                    <tr class="zero">
+                        <td>Osmanlı</td>
+                        <td>2,639,154</td>
+                        <td>2,639,154</td>
+                        
+                        <td>0.36</td>
+                    </tr>
+                    
+                    <tr class="zero">
+                        <td>Gedik</td>
+                        <td>2,601,349</td>
+                        <td>2,601,349</td>
+                        
+                        <td>0.35</td>
+                    </tr>
+                    
+                    <tr class="zero">
+                        <td>HSBC</td>
+                        <td>1,984,822</td>
+                        <td>1,984,822</td>
+                        
+                        <td>0.27</td>
+                    </tr>
+                    
+                    <tr class="zero">
+                        <td>İnfo</td>
+                        <td>1,689,288</td>
+                        <td>1,689,288</td>
+                        
+                        <td>0.23</td>
+                    </tr>
+                    
+                    <tr class="zero">
+                        <td>Tacirler</td>
+                        <td>1,507,231</td>
+                        <td>1,507,231</td>
+                        
+                        <td>0.20</td>
+                    </tr>
+                    
+                    <tr class="zero">
+                        <td>ING</td>
+                        <td>1,321,898</td>
+                        <td>1,321,898</td>
+                        
+                        <td>0.18</td>
+                    </tr>
+                    
+                    <tr class="zero">
+                        <td>Turkish</td>
+                        <td>1,231,372</td>
+                        <td>1,231,372</td>
+                        
+                        <td>0.17</td>
+                    </tr>
+                    
+                    <tr class="zero">
+                        <td>Şeker</td>
+                        <td>1,188,157</td>
+                        <td>1,188,157</td>
+                        
+                        <td>0.16</td>
+                    </tr>
+                    
+                    <tr class="zero">
+                        <td>Fiba</td>
+                        <td>1,053,774</td>
+                        <td>1,053,774</td>
+                        
+                        <td>0.14</td>
+                    </tr>
+                    
+                    <tr class="zero">
+                        <td>Global</td>
+                        <td>1,016,994</td>
+                        <td>1,016,994</td>
+                        
+                        <td>0.14</td>
+                    </tr>
+                    
+                    <tr class="zero">
+                        <td>A1</td>
+                        <td>1,000,467</td>
+                        <td>1,000,467</td>
+                        
+                        <td>0.14</td>
+                    </tr>
+                    
+                    <tr class="zero">
+                        <td>İş Bankası</td>
+                        <td>908,363</td>
+                        <td>908,363</td>
+                        
+                        <td>0.12</td>
+                    </tr>
+                    
+                    <tr class="zero">
+                        <td>Phillip</td>
+                        <td>857,085</td>
+                        <td>857,085</td>
+                        
+                        <td>0.12</td>
+                    </tr>
+                    
+                    <tr class="zero">
+                        <td>ICBC</td>
+                        <td>640,972</td>
+                        <td>640,972</td>
+                        
+                        <td>0.09</td>
+                    </tr>
+                    
+                    <tr class="zero">
+                        <td>Bulls</td>
+                        <td>635,630</td>
+                        <td>635,630</td>
+                        
+                        <td>0.09</td>
+                    </tr>
+                    
+                    <tr class="zero">
+                        <td>Bizim</td>
+                        <td>612,059</td>
+                        <td>612,059</td>
+                        
+                        <td>0.08</td>
+                    </tr>
+                    
+                    <tr class="zero">
+                        <td>AXM</td>
+                        <td>602,605</td>
+                        <td>602,605</td>
+                        
+                        <td>0.08</td>
+                    </tr>
+                    
+                    <tr class="zero">
+                        <td>Ata</td>
+                        <td>595,750</td>
+                        <td>595,750</td>
+                        
+                        <td>0.08</td>
+                    </tr>
+                    
+                    <tr class="zero">
+                        <td>Ünlü</td>
+                        <td>562,275</td>
+                        <td>562,275</td>
+                        
+                        <td>0.08</td>
+                    </tr>
+                    
+                    <tr class="zero">
+                        <td>Anadolu</td>
+                        <td>501,342</td>
+                        <td>501,342</td>
+                        
+                        <td>0.07</td>
+                    </tr>
+                    
+                    <tr class="zero">
+                        <td>Marbaş</td>
+                        <td>445,517</td>
+                        <td>445,517</td>
+                        
+                        <td>0.06</td>
+                    </tr>
+                    
+                    <tr class="zero">
+                        <td>Yat. Ort.</td>
+                        <td>358,106</td>
+                        <td>358,106</td>
+                        
+                        <td>0.05</td>
+                    </tr>
+                    
+                    <tr class="zero">
+                        <td>Tera</td>
+                        <td>348,728</td>
+                        <td>348,728</td>
+                        
+                        <td>0.05</td>
+                    </tr>
+                    
+                    <tr class="zero">
+                        <td>Ahlatcı</td>
+                        <td>263,892</td>
+                        <td>263,892</td>
+                        
+                        <td>0.04</td>
+                    </tr>
+                    
+                    <tr class="zero">
+                        <td>Trive</td>
+                        <td>219,155</td>
+                        <td>219,155</td>
+                        
+                        <td>0.03</td>
+                    </tr>
+                    
+                    <tr class="zero">
+                        <td>Pusula</td>
+                        <td>216,140</td>
+                        <td>216,140</td>
+                        
+                        <td>0.03</td>
+                    </tr>
+                    
+                    <tr class="zero">
+                        <td>Destek</td>
+                        <td>212,133</td>
+                        <td>212,133</td>
+                        
+                        <td>0.03</td>
+                    </tr>
+                    
+                    <tr class="zero">
+                        <td>Garanti Bank.</td>
+                        <td>196,967</td>
+                        <td>196,967</td>
+                        
+                        <td>0.03</td>
+                    </tr>
+                    
+                    <tr class="zero">
+                        <td>Meksa</td>
+                        <td>151,521</td>
+                        <td>151,521</td>
+                        
+                        <td>0.02</td>
+                    </tr>
+                    
+                    <tr class="zero">
+                        <td>BtcTurk</td>
+                        <td>143,804</td>
+                        <td>143,804</td>
+                        
+                        <td>0.02</td>
+                    </tr>
+                    
+                    <tr class="zero">
+                        <td>Acar</td>
+                        <td>131,054</td>
+                        <td>131,054</td>
+                        
+                        <td>0.02</td>
+                    </tr>
+                    
+                    <tr class="zero">
+                        <td>Alnus</td>
+                        <td>124,014</td>
+                        <td>124,014</td>
+                        
+                        <td>0.02</td>
+                    </tr>
+                    
+                    <tr class="zero">
+                        <td>Alternatif</td>
+                        <td>115,580</td>
+                        <td>115,580</td>
+                        
+                        <td>0.02</td>
+                    </tr>
+                    
+                    <tr class="zero">
+                        <td>İntegral</td>
+                        <td>85,610</td>
+                        <td>85,610</td>
+                        
+                        <td>0.01</td>
+                    </tr>
+                    
+                </tbody>
+            </table>
+
+        </div>
+    </div>
+
+    </main>
+
+    <div class="ad-section">
+        <a href="https://t.me/tempest298" target="_blank" rel="noopener noreferrer">
+            <img src="https://www.erzincanotokiralama.tr/yaziresim/10806631248733976632.jpg" alt="Reklam" loading="lazy" />
+        </a>
+    </div>
+    <!-- <div class="ad-section">
+        <a href="https://t.me/+4DccchFuHZw4MTI0" target="_blank">
+            <img src="https://webapi.hisseplus.com/static/ui/reklam.jpg" alt="Reklam" />
+        </a>
+    </div> -->
+
+    
+        <div class="stats-container">
+    <div class="stats-box">
+        <h2>Günlük Kullanım İstatistikleri</h2>
+        <div class="stats-grid filigran">
+            
+            <div class="stats-item">
+                <span class="stats-item-label">finansallar</span>
+                <span class="stats-item-value positive">111,329</span>
+            </div>
+            
+            <div class="stats-item">
+                <span class="stats-item-label">avwap</span>
+                <span class="stats-item-value positive">37,439</span>
+            </div>
+            
+            <div class="stats-item">
+                <span class="stats-item-label">piyasa_ozeti</span>
+                <span class="stats-item-value positive">4,032</span>
+            </div>
+            
+            <div class="stats-item">
+                <span class="stats-item-label">analiz</span>
+                <span class="stats-item-value positive">890</span>
+            </div>
+            
+            <div class="stats-item">
+                <span class="stats-item-label">pgc</span>
+                <span class="stats-item-value positive">622</span>
+            </div>
+            
+            <div class="stats-item">
+                <span class="stats-item-label">ohlcv</span>
+                <span class="stats-item-value positive">611</span>
+            </div>
+            
+            <div class="stats-item">
+                <span class="stats-item-label">akd</span>
+                <span class="stats-item-value positive">374</span>
+            </div>
+            
+            <div class="stats-item">
+                <span class="stats-item-label">fiyat</span>
+                <span class="stats-item-value positive">371</span>
+            </div>
+            
+            <div class="stats-item">
+                <span class="stats-item-label">zincir</span>
+                <span class="stats-item-value positive">306</span>
+            </div>
+            
+            <div class="stats-item">
+                <span class="stats-item-label">takas</span>
+                <span class="stats-item-value positive">296</span>
+            </div>
+            
+            <div class="stats-item">
+                <span class="stats-item-label">teknik_analiz</span>
+                <span class="stats-item-value positive">250</span>
+            </div>
+            
+            <div class="stats-item">
+                <span class="stats-item-label">twitter</span>
+                <span class="stats-item-value positive">73</span>
+            </div>
+            
+            <div class="stats-item">
+                <span class="stats-item-label">kap_pay_tum</span>
+                <span class="stats-item-value positive">57</span>
+            </div>
+            
+            <div class="stats-item">
+                <span class="stats-item-label">sirket</span>
+                <span class="stats-item-value positive">35</span>
+            </div>
+            
+            <div class="stats-item">
+                <span class="stats-item-label">kap_pay</span>
+                <span class="stats-item-value positive">33</span>
+            </div>
+            
+            <div class="stats-item">
+                <span class="stats-item-label">takasrapor</span>
+                <span class="stats-item-value positive">28</span>
+            </div>
+            
+            <div class="stats-item">
+                <span class="stats-item-label">kurum_akd</span>
+                <span class="stats-item-value positive">28</span>
+            </div>
+            
+            <div class="stats-item">
+                <span class="stats-item-label">discover_ozel</span>
+                <span class="stats-item-value positive">17</span>
+            </div>
+            
+            <div class="stats-item">
+                <span class="stats-item-label">kap_analiz</span>
+                <span class="stats-item-value positive">17</span>
+            </div>
+            
+            <div class="stats-item">
+                <span class="stats-item-label">varant</span>
+                <span class="stats-item-value positive">15</span>
+            </div>
+            
+            <div class="stats-item">
+                <span class="stats-item-label">discover_sepet</span>
+                <span class="stats-item-value positive">14</span>
+            </div>
+            
+            <div class="stats-item">
+                <span class="stats-item-label">canli</span>
+                <span class="stats-item-value positive">10</span>
+            </div>
+            
+            <div class="stats-item">
+                <span class="stats-item-label">discover_kap</span>
+                <span class="stats-item-value positive">9</span>
+            </div>
+            
+            <div class="stats-item">
+                <span class="stats-item-label">varant_derinlik</span>
+                <span class="stats-item-value positive">7</span>
+            </div>
+            
+            <div class="stats-item">
+                <span class="stats-item-label">varant_hesapla</span>
+                <span class="stats-item-value positive">4</span>
+            </div>
+            
+            <div class="stats-item">
+                <span class="stats-item-label">varant_ohlcv</span>
+                <span class="stats-item-value positive">4</span>
+            </div>
+            
+            <div class="stats-item">
+                <span class="stats-item-label">getiri</span>
+                <span class="stats-item-value positive">4</span>
+            </div>
+            
+            <div class="stats-item">
+                <span class="stats-item-label">varantlar</span>
+                <span class="stats-item-value positive">3</span>
+            </div>
+            
+            <div class="stats-item">
+                <span class="stats-item-label">discover_tedbirler</span>
+                <span class="stats-item-value positive">3</span>
+            </div>
+            
+            <div class="stats-item">
+                <span class="stats-item-label">toplam</span>
+                <span class="stats-item-value positive">156,517</span>
+            </div>
+            
+        </div>
+    </div>
+</div>
+    
+
+    <!-- ? Statik JS -->
+    <script type="module" src="https://webapi.hisseplus.com/static/ui/JS/ui.min.js" defer crossorigin="anonymous"></script>
+
+    <!-- ? Ek JS -->
+
+<!-- ! Bu araç @keyiflerolsun tarafından | @KekikAkademi için yazılmıştır.
+* ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⠀⠀⠀⡀⠀⠀⠀
+* ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣿⣷⣤⣾⡇⠀⠀⠀
+* ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣈⡛⣿⡟⠁⢀⣀⠀
+* ⠀⠀⠀⢰⡄⠀⠀⠀⠀⠀⢸⣿⡀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠻⠿⠾⣷⣾⠿⠃⠀
+* ⠀⠀⠀⠈⣿⣦⡀⠀⠀⠀⣿⣿⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⠀⠀⠀⠀
+* ⠀⠀⠀⠀⣿⣿⣿⣦⡀⠀⣿⣿⣿⣧⡀⠀⠀⠀⠀⢀⣤⣤⣤⣀⡀⠛⠀⠀⠀⠀
+* ⠀⠀⠀⠀⠘⣿⣿⣿⣿⣶⣄⠙⠻⠿⣷⡀⠀⠀⢀⣿⣿⣿⣿⣿⡿⠶⠀⠀⠀⠀
+* ⠀⠀⠀⠀⠀⠘⣿⣿⣿⣿⣿⣿⣶⣦⣤⣤⣤⣤⣾⣿⣿⡏⠉⠀⣤⠄⠀⠀⠀⠀
+* ⠀⠀⠀⠀⠀⠀⠈⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠉⠀⠀⠀⠀⠀
+* ⠀⠀⠀⠀⠀⠀⠀⠀⠙⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡏⠀⠀⠀⠀⠀⠀⠀⠀⠀
+* ⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+* ⠀⣼⣷⣶⣶⣶⣶⣶⣾⣿⣿⣿⣿⣿⣿⣿⡿⠟⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+* ⠀⢻⣿⣿⣿⣿⣿⠿⠟⠛⠛⠛⠋⠉⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+* ⠀⠘⢿⣿⣿⠟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+* ⠀⠀⠀⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+! -->
+<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a1974619b92e1578',t:'MTc4Mzc2NzMwNQ=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script><script defer src="https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496" integrity="sha512-ZE9pZaUXND66v380QUtch/5sE9tPFh2zg45pR2PB0CVkCtOREv2AJKkSidISWkysEuQ0EH8faUU5du78bx87UQ==" data-cf-beacon='{"version":"2024.11.0","token":"bec01d9331584e7abe725f11e0205443","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
+</body>
+</html>

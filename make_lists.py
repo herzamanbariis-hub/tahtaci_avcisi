@@ -1,0 +1,12 @@
+bist30_mock = ["AKBNK", "ALARK", "ARCLK", "ASELS", "ASTOR", "BIMAS", "BRSAN", "CIMSA", "CWENE", "DOAS", "ENKAI", "EREGL", "FROTO", "GARAN", "GUBRF", "HEKTS", "ISCTR", "KCHOL", "KONTR", "KOZAA", "KOZAL", "KRDMD", "ODAS", "OYAKC", "PETKM", "PGSUS", "SAHOL", "SASA", "SISE", "TCELL", "THYAO", "TOASO", "TUPRS", "YKBNK"]
+tum_hisseler = ['AKBNK', 'AKCNS', 'AKFGY', 'AKFYE', 'AKSA', 'AKSEN', 'ALARK', 'ALBRK', 'ALFAS', 'ARCLK', 'ASELS', 'ASTOR', 'ASUZU', 'AYDEM', 'AYEN', 'BAGFS', 'BERA', 'BIENY', 'BIMAS', 'BIOEN', 'BRISA', 'BRSAN', 'BUCIM', 'CANTE', 'CCOLA', 'CEMTS', 'CIMSA', 'CWENE', 'DOAS', 'DOHOL', 'DOCO', 'ECILC', 'ECZYT', 'EGEEN', 'EKGYO', 'ENERY', 'ENJSA', 'ENKAI', 'EREGL', 'EUREN', 'EUPWR', 'FROTO', 'GARAN', 'GENIL', 'GESAN', 'GLYHO', 'GUBRF', 'GWIND', 'HALKB', 'HEKTS', 'HLGYO', 'IPEKE', 'ISCTR', 'ISDMR', 'ISGYO', 'ISMEN', 'IZENR', 'KARSN', 'KCAER', 'KCHOL', 'KLSER', 'KMPUR', 'KONTR', 'KONYA', 'KORDS', 'KOZAA', 'KOZAL', 'KRDMD', 'KZBGY', 'MAVI', 'MGROS', 'MIATK', 'ODAS', 'OTKAR', 'OYAKC', 'PENTA', 'PETKM', 'PGSUS', 'PNLSN', 'QUAGR', 'SAHOL', 'SASA', 'SMRTG', 'SOKM', 'SUNTK', 'TATEN', 'TAVHL', 'TCELL', 'THYAO', 'TKFEN', 'TOASO', 'TSKB', 'TTKOM', 'TTRAK', 'TUKAS', 'TUPRS', 'ULKER', 'VAKBN', 'VESBE', 'VESTL', 'YKBNK', 'YYLGD', 'ZOREN', 'SDTTR', 'ONCSM', 'CVKMD', 'EKSUN', 'MACKO', 'BVSAN', 'TERRA', 'SOKE', 'KOPOL', 'FORTE', 'KATMR', 'KLKIM', 'KFEIN', 'ARZUM', 'DOGUB', 'DESA', 'YATAS', 'SUWEN', 'LUKSK', 'MEGAP', 'PRKME', 'ZRGYO', 'ISBTR', 'ISATR', 'TRCAS', 'INFO', 'GEDIK', 'OSMEN', 'OYYAT', 'YGYO', 'VKGYO', 'DZGYO', 'NUGYO', 'ALGYO', 'PEKGY', 'MRGYO', 'AGHOL', 'GOZDE', 'POLHO', 'ALCAR', 'TGSAS', 'DIRIT', 'VANGD', 'FMIZP', 'JANTS', 'OTKAR', 'TMSN', 'TUREX', 'GOLTS', 'BSOKE', 'BTCIM', 'CMBTN', 'NIBAS', 'KRVGD', 'ALVES', 'LMOUR', 'MOGAN', 'OBAMG', 'OFSYM', 'REEDR', 'TABGD', 'TARKM', 'ZEDUR', 'AGROT', 'BINHO', 'KBORU', 'SURGY', 'MEKAG', 'MARBL', 'MHRGY', 'DOFER', 'HATSN', 'ADGYO', 'BYDNR', 'KZGYO', 'FZLRF', 'ASGYO', 'KTLEV', 'PASEU', 'ATATP', 'KARYE', 'MOBTL', 'PCILT', 'VBTYZ', 'MTRKS', 'ARDYZ', 'SMART', 'LINK', 'LOGO', 'NETAS', 'KRONT', 'FONET', 'EDATA', 'ARENA', 'INDES', 'DESPC', 'DGATE', 'PKART', 'PAPIL', 'KAREL', 'ESCOM']
+
+bist30 = [s for s in bist30_mock if s in tum_hisseler]
+bist100 = bist30 + [s for s in tum_hisseler if s not in bist30][:70]
+bist_disi = [s for s in tum_hisseler if s not in bist100]
+
+with open('stock_lists.py', 'w', encoding='utf-8') as f:
+    f.write(f"TUM_HISSELER = {tum_hisseler}\n")
+    f.write(f"BIST30 = {bist30}\n")
+    f.write(f"BIST100 = {bist100}\n")
+    f.write(f"BIST_DISI = {bist_disi}\n")

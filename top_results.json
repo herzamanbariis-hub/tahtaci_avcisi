@@ -1,0 +1,122 @@
+[
+  {
+    "Hisse": "YKBNK",
+    "Skor": 70.0,
+    "Durum": "PASSIVE",
+    "Ozet": "[-] IZLEMEDE",
+    "SMC_Sniper": false,
+    "Tuzak_Skoru": 30.0
+  },
+  {
+    "Hisse": "AKBNK",
+    "Skor": 68.9,
+    "Durum": "PASSIVE",
+    "Ozet": "[-] IZLEMEDE",
+    "SMC_Sniper": false,
+    "Tuzak_Skoru": 30.0
+  },
+  {
+    "Hisse": "GARAN",
+    "Skor": 68.8,
+    "Durum": "PASSIVE",
+    "Ozet": "[-] IZLEMEDE",
+    "SMC_Sniper": false,
+    "Tuzak_Skoru": 30.0
+  },
+  {
+    "Hisse": "TCELL",
+    "Skor": 68.0,
+    "Durum": "PASSIVE",
+    "Ozet": "[-] IZLEMEDE",
+    "SMC_Sniper": false,
+    "Tuzak_Skoru": 30.0
+  },
+  {
+    "Hisse": "SASA",
+    "Skor": 67.6,
+    "Durum": "PASSIVE",
+    "Ozet": "[!] TEHLIKELI DUSUS TRENDI (Dusen Bicak)",
+    "SMC_Sniper": false,
+    "Tuzak_Skoru": 30.0
+  },
+  {
+    "Hisse": "SAHOL",
+    "Skor": 67.3,
+    "Durum": "PASSIVE",
+    "Ozet": "[-] IZLEMEDE",
+    "SMC_Sniper": false,
+    "Tuzak_Skoru": 30.0
+  },
+  {
+    "Hisse": "ASELS",
+    "Skor": 67.0,
+    "Durum": "PASSIVE",
+    "Ozet": "[-] IZLEMEDE",
+    "SMC_Sniper": false,
+    "Tuzak_Skoru": 0.0
+  },
+  {
+    "Hisse": "ISCTR",
+    "Skor": 67.0,
+    "Durum": "PASSIVE",
+    "Ozet": "[-] IZLEMEDE",
+    "SMC_Sniper": false,
+    "Tuzak_Skoru": 30.0
+  },
+  {
+    "Hisse": "ASTOR",
+    "Skor": 66.9,
+    "Durum": "PASSIVE",
+    "Ozet": "[-] IZLEMEDE",
+    "SMC_Sniper": false,
+    "Tuzak_Skoru": 0.0
+  },
+  {
+    "Hisse": "BIMAS",
+    "Skor": 66.6,
+    "Durum": "PASSIVE",
+    "Ozet": "[-] IZLEMEDE",
+    "SMC_Sniper": false,
+    "Tuzak_Skoru": 0.0
+  },
+  {
+    "Hisse": "KCAER",
+    "Skor": 65.6,
+    "Durum": "PASSIVE",
+    "Ozet": "[-] IZLEMEDE",
+    "SMC_Sniper": false,
+    "Tuzak_Skoru": 30.0
+  },
+  {
+    "Hisse": "ENKAI",
+    "Skor": 63.5,
+    "Durum": "PASSIVE",
+    "Ozet": "[-] IZLEMEDE",
+    "SMC_Sniper": false,
+    "Tuzak_Skoru": 30.0
+  },
+  {
+    "Hisse": "FROTO",
+    "Skor": 63.1,
+    "Durum": "PASSIVE",
+    "Ozet": "[!] TEHLIKELI DUSUS TRENDI (Dusen Bicak)",
+    "SMC_Sniper": false,
+    "Tuzak_Skoru": 30.0
+  },
+  {
+    "Hisse": "EKGYO",
+    "Skor": 61.0,
+    "Durum": "PASSIVE",
+    "Ozet": "[-] IZLEMEDE",
+    "SMC_Sniper": false,
+    "Tuzak_Skoru": 30.0
+  },
+  {
+    "Hisse": "TTKOM",
+    "Skor": 60.2,
+    "Durum": "PASSIVE",
+    "Ozet": "[-] IZLEMEDE",
+    "SMC_Sniper": false,
+    "Tuzak_Skoru": 30.0
+  }
+]

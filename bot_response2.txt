@@ -1,0 +1,13 @@
+Callback query b'EREGL:akd' gonderiliyor...
+Butona tiklandi!
+
+[2026-07-11 10:09:49+00:00] Gonderen: 1622082854 Mesaj: ✅ `EREGL` - **Ereğli Demir ve Çelik Fabrikaları T.A.Ş.**
+📮 __AKD Verileri hazır!__
+📅 `2026-07-10 - 2026-07-10`
+
+📌 **Tarih aralığı belirtmek için:**
+ℹ️ `/akd EREGL YYYY-AA-GG YYYY-AA-GG`
+💡 __Örnek:__ `/akd EREGL 2025-01-13 2025-01-14`
+
+📆 **Son N gün:**
+💡 __Örnek:__ `/akd EREGL 7g`

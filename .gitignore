@@ -1,0 +1,19 @@
+# Ortam değişkenleri ve şifreler (Github'a atılmaz)
+.env
+
+# Cache dosyaları
+__pycache__/
+*.pyc
+
+# Gereksiz dosyalar
+.vscode/
+.idea/
+progress.json
+
+# Veritabanları (Boş halini atalım, bulutta yeniden oluşsun)
+*.db
+!tahtaci_avcisi.db
+
+# Telegram Session (Telegram onayı istememesi için bu dosya EKLENMELİDİR)
+# Sadece PRIVATE (GİZLİ) repolarda kullanın!
+!tahtaci_session.session
