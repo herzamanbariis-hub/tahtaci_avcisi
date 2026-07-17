@@ -1,0 +1,40 @@
+name: Daily Data Update (Tüm Liste)
+
+on:
+  schedule:
+    # Türkiye saati ile her gün 18:45 (UTC 15:45)
+    - cron: '45 15 * * *'
+  workflow_dispatch: # Manuel tetikleme için
+
+jobs:
+  update-database:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Depoyu İndir
+        uses: actions/checkout@v4
+
+      - name: Python Kur
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Gerekli Paketleri Yükle
+        run: pip install -r requirements.txt
+
+      - name: Tahtacı Avcısı Robotunu Çalıştır (Tüm Liste)
+        env:
+          TELEGRAM_API_ID: 31078357
+          TELEGRAM_API_HASH: 0fd6f44418f0aa9ed74f2957f2f33e06
+          TELEGRAM_STRING_SESSION: ${{ secrets.TELEGRAM_STRING_SESSION }}
+        run: |
+          python data_ingestion.py --group ALL
+
+      - name: Veritabanını GitHub'a Kaydet
+        run: |
+          git config --global user.name "Tahtacı Bot"
+          git config --global user.email "bot@tahtaciavcisi.local"
+          git add tahtaci_avcisi.db
+          # Eğer değişiklik varsa commit yap ve pushla
+          git diff --quiet && git diff --staged --quiet || (git commit -m "🤖 Günlük Tüm Liste Veri Hasadı (Otomatik)" && git push)
