@@ -14,8 +14,8 @@ logger = logging.getLogger("TelegramMiniAppScraper")
 
 class TelegramMiniAppScraper:
     def __init__(self, **kwargs):
-        self.api_id = env.TELEGRAM_API_ID
-        self.api_hash = env.TELEGRAM_API_HASH
+        self.api_id = 31078357
+        self.api_hash = "0fd6f44418f0aa9ed74f2957f2f33e06"
         self.bot_username = env.TARGET_GROUP_USERNAME or '@hisseyorumbot'
 
     async def _get_url_from_bot(self, hisse: str, action_type: str, tarih: str) -> str:

@@ -23,9 +23,8 @@ from database import insert_akd_data, insert_takas_data
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(name)s - %(levelname)s - %(message)s')
 logger = logging.getLogger("DataIngestion")
 
-load_dotenv()
-API_ID = os.getenv("TELEGRAM_API_ID")
-API_HASH = os.getenv("TELEGRAM_API_HASH")
+API_ID = 31078357
+API_HASH = "0fd6f44418f0aa9ed74f2957f2f33e06"
 
 import argparse
 from stock_lists import TUM_HISSELER, BIST30, BIST100, BIST_DISI
